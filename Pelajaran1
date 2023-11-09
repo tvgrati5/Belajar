@@ -2,21 +2,7 @@
 #EXTINF:-1 tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml"
 #EXTINF:-1 tvg-url="https://i.mjh.nz/SamsungTVPlus/all.xml"
 #EXTINF:-1 tvg-url="https://i.mjh.nz/au/all/epg.xml"
-#EXTINF:-1 tvg-url="https://www.tdtchannels.com/epg/TV.xml,https://www.bevy.be/bevyfiles/belgiumpremium.xml"
-#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/canadapremium.xml,https://www.bevy.be/bevyfiles/chile.xml"
-#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/france.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml"
-#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indiapremium2.xml"
-#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml"
-#EXTINF:-1 tvg-url="https://egp.it999.ru/epg.xml.gz"
-
-
-#EXTINF:-1 tvg-logo="__" group-title="SPORT WORLD 3", S SPORT 1
-http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=2026_&extension=ts
-#EXTINF:-1 tvg-logo="__" group-title="SPORT WORLD 3", S SPORT 2
-http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=2029_&extension=ts
-#EXTINF:-1 tvg-logo="__" group-title="SSC SPORT", SSC SPORT 1
-http://myf-tv.com:8080/play/live.php?mac=00:1A:79:4B:03:07&stream=469895_&extension=ts
-
+#EXTINF:-1 tvg-url="https://gitea.com/AhmadRinaldie/SPESIAL-PAKE-TELOR/raw/branch/main/F1nal%20F1.xml"
 
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/1200px-Antv_logo.svg.png" group-title="VISION+", ANTV
 http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=704460&extension=ts&play_token=72DbMDZGGh
@@ -37,10 +23,6 @@ http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=704488&extens
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStD4dK3U9kIOGBm7-SHxkSo1Fvi5HyNjrSPA&usqp=CAU" group-title="VISION+", METRO TV
 http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=704501&extension=ts&play_token=0GjmHJXSQT
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpMV7_DD5dl6QEwdzHyzNVSokYZsfFAwflVw&usqp=CAU" group-title="VISION+", JTV
-http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=704417&extension=ts&play_token=CiwXUAQYI0
-
-
-EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1500000,RESOLUTION=1280x720
-ammedia_720p.m3u8
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=704417&extension=ts&play_token=CiwX
 #EXTINF:-1 tvg-logo="__" group-title="INDO", ANTV
 http://210.210.155.37/qwr9ew/s/s07/index1.m3u8

@@ -4,3 +4,25 @@ http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=2026_&exten
 http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=2029_&extension=ts
 #EXTINF:-1 tvg-logo="__" group-title="SSC SPORT", SSC SPORT 1
 http://myf-tv.com:8080/play/live.php?mac=00:1A:79:4B:03:07&stream=469895_&extension=ts
+
+
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/1200px-Antv_logo.svg.png" group-title="VISION+", ANTV
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=704460&extension=ts&play_token=72DbMDZGGh
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYPj6Q3ggs3TMU5GqFnXp6dXvTRa2WZzBixg&usqp=CAU" group-title="VISION+", TRANS 7
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=704416&extension=ts&play_token=fcFsf677CS
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1LAR1UUsYqpBTkO5W4bnL-bWT3V5bReOiIA&usqp=CAU" group-title="VISION+", TRANS TV
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=704432&extension=ts&play_token=iHBNJXejlH
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO70XFHtPBLaFpPUpnTSZMie-Bf51K2tDP3A&usqp=CAU" group-title="VISION+", RCTI
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=704433&extension=ts&play_token=SVzuvp78ue
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/MNCTV_MNC-Group.svg/2560px-MNCTV_MNC-Group.svg.png" group-title="VISION+", MNC TV
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=704434&extension=ts&play_token=a3Mlyi9fMZ
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1siD6z3O7ahySutVI6OR_IZerWnIwwPck7g&usqp=CAU" group-title="VISION+", GTV
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=704412&extension=ts&play_token=M7F4UDkT8B
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/1ff4e1118db486e897f955e9733419e2.png" group-title="VISION+", TV ONE
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=704431&extension=ts&play_token=uHTvPzYTBq
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/6dca0f82c0415242463eab39b28fd715.png" group-title="VISION+", KOMPAS TV
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=704488&extension=ts&play_token=GkfAapMyyI
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStD4dK3U9kIOGBm7-SHxkSo1Fvi5HyNjrSPA&usqp=CAU" group-title="VISION+", METRO TV
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=704501&extension=ts&play_token=0GjmHJXSQT
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpMV7_DD5dl6QEwdzHyzNVSokYZsfFAwflVw&usqp=CAU" group-title="VISION+", JTV
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=704417&extension=ts&play_token=CiwXUAQYI0

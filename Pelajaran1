@@ -4,4 +4,4 @@ http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=2026_&exten
 #EXTINF:-1 tvg-logo="__" group-title="SPORT WORLD 3", S SPORT 2
 http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=2029_&extension=ts
 
-#EXTINF:-1 tvg-url="https://playlist-1.blogspot.com.xml"
+#EXTINF:-1 tvg-url="https://playlist-1.blogspot.xml"

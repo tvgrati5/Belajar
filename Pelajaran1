@@ -2,6 +2,15 @@
 http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=2026_&extension=ts
 #EXTINF:-1 tvg-logo="__" group-title="SPORT WORLD 3", S SPORT 2
 http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=2029_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzKk3UZhWEz2VthJ7EZ6Pvv2RfARYCC1m5AA&usqp=CAU" group-title="#🇲🇨LIGA KETEK1🇲🇨#", INDOSIAR S1
+http://iptvtree.net:8080/nika/pXAcXnhye4QKXvJu/162138
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzKk3UZhWEz2VthJ7EZ6Pvv2RfARYCC1m5AA&usqp=CAU" group-title="#🇲🇨LIGA KETEK1🇲🇨#", INDOSIAR S2
+http://kuchini.site:8080/F30140/f3de2280/162138
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzKk3UZhWEz2VthJ7EZ6Pvv2RfARYCC1m5AA&usqp=CAU" group-title="#🇲🇨LIGA KETEK1🇲🇨#", INDOSIAR S3
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/162138
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzKk3UZhWEz2VthJ7EZ6Pvv2RfARYCC1m5AA&usqp=CAU" group-title="#🇲🇨LIGA KETEK1🇲🇨#", INDOSIAR S4
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=994885&extension=ts&play_token=GVZS088tcf
+
 #EXTINF:-1 tvg-id="" tvg-name="INDOSIAR LIVE" tvg-logo="" group-title="LIVE EVENT",INDOSIAR LIVE http://103.150.92.130:80/trialbaruuu/RYxaBKts7c/6832.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MOJI LIVE" tvg-logo="" group-title="NASIONAL",MOJI LIVE http://103.150.92.130:80/trialbaruuu/RYxaBKts7c/85.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MOJI LIVE" tvg-logo="" group-title="LIVE EVENT",MOJI LIVE http://103.150.92.130:80/trialbaruuu/RYxaBKts7c/85.m3u8

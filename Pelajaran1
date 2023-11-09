@@ -1,8 +1,34 @@
-#EXTINF:-1 tvg-url="http://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml"
-#EXTINF:-1 tvg-url="http://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml"
-#EXTINF:-1 tvg-url="http://i.mjh.nz/SamsungTVPlus/all.xml"
-#EXTINF:-1 tvg-url="http://i.mjh.nz/au/all/epg.xml"
-#EXTINF:-1 tvg-url="http://gitea.com/AhmadRinaldie/SPESIAL-PAKE-TELOR/raw/branch/main/F1nal%20F1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="#♦WELCOME MY PLAYLIST INALDIE♦#", DONASI => https://saweria.co/Inaldie22
+https://github.com/inaldie/inaldie/raw/main/DONATE.ts
+
+
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml"
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml"
+#EXTINF:-1 tvg-url="https://i.mjh.nz/SamsungTVPlus/all.xml"
+#EXTINF:-1 tvg-url="https://i.mjh.nz/au/all/epg.xml"
+#EXTINF:-1 tvg-url="https://www.tdtchannels.com/epg/TV.xml,https://www.bevy.be/bevyfiles/belgiumpremium.xml"
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/canadapremium.xml,https://www.bevy.be/bevyfiles/chile.xml"
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/france.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml"
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indiapremium2.xml"
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml"
+#EXTINF:-1 tvg-url="https://egp.it999.ru/epg.xml.gz"
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml"
+#EXTINF:-1 tvg-url="://www.bevy.be/bevyfiles/indonesiapremium4.xml
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/italy.xml"
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/italypremium.xml"
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml"
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml"
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/romania.xml,https://www.bevy.be/bevyfiles/romaniapremium.xml"
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/russiapremium1.xml,https://www.bevy.be/bevyfiles/serbia.xml"
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml,https://www.bevy.be/bevyfiles/southafricapremium.xml"
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/sweden.xml,https://www.bevy.be/bevyfiles/spain.xml"
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/thailand.xml,https://www.bevy.be/bevyfiles/thailandpremium.xml"
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/unitedkingdom.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml"
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/unitedstatespremium4.xml,https://www.bevy.be/bevyfiles/georgia.xml"
+
+
+
+
 
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/1200px-Antv_logo.svg.png" group-title="VISION+", ANTV
 http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=704460&extension=ts&play_token=72DbMDZGGh

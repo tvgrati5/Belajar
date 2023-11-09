@@ -2,28 +2,5 @@
 http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=2026_&extension=ts
 #EXTINF:-1 tvg-logo="__" group-title="SPORT WORLD 3", S SPORT 2
 http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=2029_&extension=ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzKk3UZhWEz2VthJ7EZ6Pvv2RfARYCC1m5AA&usqp=CAU" group-title="#🇲🇨LIGA KETEK1🇲🇨#", INDOSIAR S1
-http://iptvtree.net:8080/nika/pXAcXnhye4QKXvJu/162138
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzKk3UZhWEz2VthJ7EZ6Pvv2RfARYCC1m5AA&usqp=CAU" group-title="#🇲🇨LIGA KETEK1🇲🇨#", INDOSIAR S2
-http://kuchini.site:8080/F30140/f3de2280/162138
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzKk3UZhWEz2VthJ7EZ6Pvv2RfARYCC1m5AA&usqp=CAU" group-title="#🇲🇨LIGA KETEK1🇲🇨#", INDOSIAR S3
-http://sysadminhost.net:8080/24eacfe8/c52fb4d1/162138
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzKk3UZhWEz2VthJ7EZ6Pvv2RfARYCC1m5AA&usqp=CAU" group-title="#🇲🇨LIGA KETEK1🇲🇨#", INDOSIAR S4
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=994885&extension=ts&play_token=GVZS088tcf
-
-#EXTINF:-1 tvg-id="" tvg-name="INDOSIAR LIVE" tvg-logo="" group-title="LIVE EVENT",INDOSIAR LIVE http://103.150.92.130:80/trialbaruuu/RYxaBKts7c/6832.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MOJI LIVE" tvg-logo="" group-title="NASIONAL",MOJI LIVE http://103.150.92.130:80/trialbaruuu/RYxaBKts7c/85.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MOJI LIVE" tvg-logo="" group-title="LIVE EVENT",MOJI LIVE http://103.150.92.130:80/trialbaruuu/RYxaBKts7c/85.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ANTV" tvg-logo="http://103.150.92.130:80/images/dsAt8cMDBjbP3mVNdeYR4TUPvjVb4a7G2UYmss5QoGX-7FyuNwu_b1YnGxygzH9w.png" group-title="NASIONAL",ANTV http://103.150.92.130:80/trialbaruuu/RYxaBKts7c/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="http://103.150.92.130:80/images/dsAt8cMDBjbP3mVNdeYR4Wu5x94K6GwgfWbKKnDsf5tgoQKcUha8NKU0R7DXkXq2.png" group-title="NASIONAL",GTV http://103.150.92.130:80/trialbaruuu/RYxaBKts7c/2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="INDOSIAR" tvg-logo="http://103.150.92.130:80/images/dsAt8cMDBjbP3mVNdeYR4fKyRwggLLUAxcyWUZEbj49rH4HNJLGZdpbZ5O-DvXnW.png" group-title="NASIONAL",INDOSIAR http://103.150.92.130:80/trialbaruuu/RYxaBKts7c/3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MNCTV" tvg-logo="http://103.150.92.130:80/images/dsAt8cMDBjbP3mVNdeYR4Xf-2dOPPZ-kY_OT9Fxnuap0Hn3iH8N1z0Wk-f193xjM.png" group-title="NASIONAL",MNCTV http://103.150.92.130:80/trialbaruuu/RYxaBKts7c/4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MOJI TV" tvg-logo="http://103.150.92.130:80/images/dsAt8cMDBjbP3mVNdeYR4YuxLeUvMst809Mpt_gx2azZLywm2TDXx9mc_EEMjv1o.png" group-title="NASIONAL",MOJI TV http://103.150.92.130:80/trialbaruuu/RYxaBKts7c/5.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NET." tvg-logo="http://103.150.92.130:80/images/dsAt8cMDBjbP3mVNdeYR4dE-JDuMNcE7uuCATII2vzvaECrlpdumdkI27ZhP-U5l.png" group-title="NASIONAL",NET. http://103.150.92.130:80/trialbaruuu/RYxaBKts7c/6.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="http://103.150.92.130:80/images/dsAt8cMDBjbP3mVNdeYR4SZeZAXSXS-eCjE6SPhGK59w06QfVPe9OHvu14sh59aX.png" group-title="NASIONAL",RCTI http://103.150.92.130:80/trialbaruuu/RYxaBKts7c/7.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="http://103.150.92.130:80/images/dsAt8cMDBjbP3mVNdeYR4RgSFhFZn2vO-PjvkwQHDAIBqbzsX2SkpXpQksXvCYPP.png" group-title="NASIONAL",RTV http://103.150.92.130:80/trialbaruuu/RYxaBKts7c/8.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="http://103.150.92.130:80/images/dsAt8cMDBjbP3mVNdeYR4eZBCWYb7If-L8Ds6GIovHF82u-Dkv018SG50nKoLatW.png" group-title="NASIONAL",SCTV http://103.150.92.130:80/trialbaruuu/RYxaBKts7c/9.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRANS TV" tvg-logo="http://103.150.92.130:80/images/dsAt8cMDBjbP3mVNdeYR4WSpS5WEHxcXglpwsCFcvb1yPBZZO0fmlCo4o-5f_gyN.png" group-title="NASIONAL",TRANS TV http://103.150.92.130:80/trialbaruuu/RYxaBKts7c/6831.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRANS 7" tvg-logo="http://103.150.92.130:80/images/dsAt8cMDBjbP3mVNdeYR4QQ61ldRQBjzi2bK2EaDWCZyrddeXlK-SWZ085LBx45R.png" group-title="NASIONAL",TRANS 7 http://103.150.92.130:80/trialbaruuu/RYxaBKts7c/10.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVRI" tvg-logo="http://103.150.92.130:80/images/dsAt8cMDBjbP3mVNdeYR4Sj9ZaZtYtjkE9cxHXAr8fUtO-M9_ZPWVBwlcYVG8gOH.png" group-title="NASIONAL",TVRI http://103.150.92.130:80/trialbaruuu/RYxaBKts7c/12.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BERITA SATU" tvg-
+#EXTINF:-1 tvg-logo="__" group-title="SSC SPORT", SSC SPORT 1
+http://myf-tv.com:8080/play/live.php?mac=00:1A:79:4B:03:07&stream=469895_&extension=ts

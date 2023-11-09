@@ -26,3 +26,16 @@ http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=704488&extens
 http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=704501&extension=ts&play_token=0GjmHJXSQT
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpMV7_DD5dl6QEwdzHyzNVSokYZsfFAwflVw&usqp=CAU" group-title="VISION+", JTV
 http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=704417&extension=ts&play_token=CiwXUAQYI0
+
+
+
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml"
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml"
+#EXTINF:-1 tvg-url="https://i.mjh.nz/SamsungTVPlus/all.xml"
+#EXTINF:-1 tvg-url="https://i.mjh.nz/au/all/epg.xml"
+#EXTINF:-1 tvg-url="https://www.tdtchannels.com/epg/TV.xml,https://www.bevy.be/bevyfiles/belgiumpremium.xml"
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/canadapremium.xml,https://www.bevy.be/bevyfiles/chile.xml"
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/france.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml"
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indiapremium2.xml"
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml"
+#EXTINF:-1 tvg-url="https://egp.it999.ru/epg.xml.gz"

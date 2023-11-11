@@ -2,11 +2,13 @@
 
 #EXTINF:-1 tvg-logo="__" group-title="INDONESIA", INDOSIAR
 http://iptvtree.net:8080/mitrovic/ff9bb47a59/162138
-
-
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch26%29/index.m3u8
 #EXTINF:-1 tvg-logo="__" group-title="INDONESIA", MOJI HD
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch26%29/index.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/MOJI.png" group-title="INDONESIA", MOJI HD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch26%29/index.m3u8
+#EXTINF
 
 
 #EXTINF:-1 tvg-logo="__" group-title="INDONESIA", TRANSTV HD
@@ -19,14 +21,17 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch390%29/index
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch410%29/index.m3u8
 #EXTINF:-1 tvg-logo="__" group-title="INDONESIA", METROTV HD
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch394%29/index.m3u8
-#EXTINF:-1 tvg-logo="__" group-title="INDONESIA",GTV
+
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="INDONESIA", GTV
 http://kuchini.site:8080/F30140/f3de2280/157578
-#EXTINF:-1 tvg-logo="__" group-title="INDONESIA",MNCTV
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png" group-title="INDONESIA", MNCTV
 http://kuchini.site:8080/F30140/f3de2280/165054
-#EXTINF:-1 tvg-logo="__" group-title="INDONESIA",SCTV
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/127dd049bd05a9d07b266c1d8883ca8b.png" group-title="INDONESIA", SCTV
 http://kuchini.site:8080/F30140/f3de2280/162141
-#EXTINF:-1 tvg-logo="__" group-title="INDONESIA",RCTI
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="INDONESIA", RCTI
 http://kuchini.site:8080/F30140/f3de2280/157591
+
 #EXTINF:-1 tvg-logo="__" group-title="INDONESIA",BTV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch360%29/index.m3u8
 #EXTINF:-1 tvg-logo="__" group-title="INDONESIA", BERITASATU WORLD

@@ -82,9 +82,6 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel
 ##########################
 FIRSHMEDIA    ############
 ################################################################################################################################################################################# MOVIE ASIA
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="FIRSTMEDIA", ###FIRSTMEDIA CHANNEL###
-https://github.com/inaldie/inaldie/raw/main/LOGO.ts
-
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/MOJI.png" group-title="FIRSTMEDIA", MOJI HD
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch26%29/index.m3u8

@@ -2,3 +2,41 @@
 
 #EXTINF:-1 tvg-logo="__" group-title="INDONESIA", INDOSIAR
 http://iptvtree.net:8080/mitrovic/ff9bb47a59/162138
+
+#EXTINF:-1 tvg-logo="__" group-title="INDONESIA", MOJI HD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch26%29/index.m3u8
+#EXTINF:-1 tvg-logo="__" group-title="INDONESIA", TRANSTV HD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch396%29/index.m3u8
+#EXTINF:-1 tvg-logo="__" group-title="INDONESIA",TRANS7 HD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch397%29/index.m3u8
+#EXTINF:-1 tvg-logo="__" group-title="INDONESIA", ANTV HD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch390%29/index.m3u8
+#EXTINF:-1 tvg-logo="__" group-title="INDONESIA",KOMPASTV HD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch410%29/index.m3u8
+#EXTINF:-1 tvg-logo="__" group-title="INDONESIA", METROTV HD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch394%29/index.m3u8
+#EXTINF:-1 tvg-logo="__" group-title="INDONESIA",GTV
+http://kuchini.site:8080/F30140/f3de2280/157578
+#EXTINF:-1 tvg-logo="__" group-title="INDONESIA",MNCTV
+http://kuchini.site:8080/F30140/f3de2280/165054
+#EXTINF:-1 tvg-logo="__" group-title="INDONESIA",SCTV
+http://kuchini.site:8080/F30140/f3de2280/162141
+#EXTINF:-1 tvg-logo="__" group-title="INDONESIA",RCTI
+http://kuchini.site:8080/F30140/f3de2280/157591
+#EXTINF:-1 tvg-logo="__" group-title="INDONESIA",BTV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch360%29/index.m3u8
+#EXTINF:-1 tvg-logo="__" group-title="INDONESIA", BERITASATU WORLD
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch19%29/index.m3u8
+#EXTINF:-1 tvg-logo="__" group-title="INDONESIA", JAKARTA GLOBE
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel
+
+
+
+
+
+
+
+
+
+
+

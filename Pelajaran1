@@ -1,26 +1,4 @@
--------------- NASIONAL DIGITAL ----------------
+------------- NASIONAL DIGITAL ----------------
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NF1GMty1/enmentari.png" group-title="NASIONAL DIGITAL",Mentari TV
-http://kuchini.site:8080/F30140/f3de2280/298546https://kametv.my.id/putar/digital/mentarii.php
-
-#EXTINF:-1  group-title="NASIONAL DIGITAL" tvg-logo="https://i.postimg.cc/W40zJQvW/transtv.png",Trans TV
-http://kuchini.site:8080/F30140/f3de2280/162503
-
-#EXTINF:-1  group-title="NASIONAL DIGITAL" tvg-logo="https://i.postimg.cc/pVCZFSVL/trans7.png",Trans 7
-http://kuchini.site:8080/F30140/f3de2280/162502
-
-#EXTINF:-1  group-title="NASIONAL DIGITAL" tvg-logo="https://i.postimg.cc/PfyCkNR7/antv.jpg",ANTV
-http://kuchini.site:8080/F30140/f3de2280/165072
-
-#EXTINF:-1  group-title="NASIONAL DIGITAL" tvg-logo="https://i.postimg.cc/1t5KC0JQ/moji.png",Moji TV
-http://kuchini.site:8080/F30140/f3de2280/298550
-
-#EXTINF:-1  group-title="NASIONAL DIGITAL" tvg-logo="https://i.postimg.cc/pdNWJqVm/indosiar.png",Indosiar
-http://kuchini.site:8080/F30140/f3de2280/162138
-
-#EXTINF:-1  group-title="NASIONAL DIGITAL" tvg-logo="https://i.postimg.cc/dV1xmq3X/sctv.png",SCTV
-http://kuchini.site:8080/F30140/f3de2280/162141
-
-#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://i.postimg.cc/W4Vs1FXr/RCTI.png" group-title="NASIONAL DIGITAL",RCTI 
-http://kuchini.site:8080/F30140/f3de2280/157591
-
+#EXTINF:-1 tvg-logo="__" group-title="INDONESIA", INDOSIAR
+http://iptvtree.net:8080/mitrovic/ff9bb47a59/162138

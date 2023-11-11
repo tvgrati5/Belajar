@@ -63,11 +63,11 @@ http://iptvtree.net:8080/onestream/j4DvYuVxCA27Zmg3hPyXRa/162138
 http://iptvtree.net:8080/06c71787/b4841bff74/162138
 
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:4377/portal/picon/2021-07/127dd049bd05a9d07b266c1d8883ca8b.png" group-title="JANGAN_DIBUKA", ID: SCTV
-http://iptvtree.net:8080/06c7
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:4377/portal/picon/2021-07/127dd049bd05a9d07b266c1d8883ca8b.png" group-title="JANGAN_DIBUKA", ID: SSCTV 1
+http://iptvtree.net:8080/06c71787/b4841bff74/162141
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/127dd049bd05a9d07b266c1d8883ca8b.png" group-title="JANGAN_DIBUKA", ID: SCTV
-http://iptvtree
+#EXTINF:-1 tvg-logo="__" group-title="JANGAN_DIBUKA", ID: SCTV 2
+http://iptvtree.net:8080/onestream/j4DvYuVxCA27Zmg3hPyXRa/162141
 
 #EXTINF:-1 tvg-logo="__" group-title="JANGAN_DIBUKA", FIFA 1
 https://i.mjh.nz/SamsungTVPlus/GBBD1100008YW.m3u8

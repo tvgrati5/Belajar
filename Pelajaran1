@@ -725,6 +725,13 @@ https://d2h3grlsj8f9qu.cloudfront.net/out/v1/df357e7da00b4f528989176850153919/in
 #KODIPROP:inputstream.adaptive.license_key=https://www.plus.fifa.com/flux-capacitor/api/v1/licensing/widevine/modular?sessionId=Zmx1eF9jYXBhY2l0b3I6MDlkMzk0ZmUtMjI1ZC00ZjJhLTgxYjMtNmIyYWY2MGMyODlh
 https://d16v4rolnwizs0.cloudfront.net/out/v1/b6dd5174fe0d499ea082b588dbedf9f5/index.mpd?aws.manifestfilter=audio_language:eng;video_codec:h264;video_height:0-1080
 
+#EXTINF:-1 tvg-logo="__" group-title="JANGAN_DIBUKA", FIFA 5
+https://4b92bb6a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1hdF9GSUZBUGx1c19ITFM/playlist.m3u8?ads.wurl_channel=1484&ads.wurl_name=FIFAPlus&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+#EXTINF:-1 tvg-logo="__" group-title="JANGAN_DIBUKA", FIFA 6
+https://4b92bb6a.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1hdF9GSUZBUGx1c19ITFM/58cfeb10-fcc7-4e44-be73-df16de4478f2/5.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="__" group-title="JANGAN_DIBUKA", LIVE ONLY 1
 https://1123139281.cdn.khmer-hd.com/phoHD/chunks.m3u8
@@ -733,6 +740,8 @@ https://1123139281.cdn.khmer-hd.com/phoHD/chunks.m3u8
 http://aboltys.ottclub.xyz/iptv/V64KDDZ8TF9V98/2520/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="__" group-title="JANGAN_DIBUKA",  LIVE EVENTH TV
+https://playlist.elmanking25.repl.co/playlist/live_event1
 
 
 

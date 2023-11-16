@@ -637,16 +637,17 @@ http://iptvtree.net:8080/87b43fb3/d8db7a3d96/157591
 #EXTINF:-1 tvg-logo="__" group-title="KUMPULAN RCTI", 2
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683099&extension=ts&play_token=GVZS088tcf
 
-#EXTINF:-1 tvg-logo="__" group-title="KUMPULAN RCTI", 3
+#EXTINF:-1 group-title="KUMPULAN RCTI"catchup="" tvg-logo="https://i.ibb.co/xYsJFh4/rcti-logo.png",RCTI 3
 http://103.30.87.238:443/wadmanet/norlec212/516
 
 
-#EXTINF:-1 tvg-logo="__" group-title="KUMPULAN RCTI", 4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4urMukgFxOsmKR06xskG4LzwSbtbwosJ0oQ&usqp=CAU" group-title="KUMPULAN RCTI", RCTI 4
 http://nyanv-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="__" group-title="KUMPULAN RCTI", 5
+
+#EXTINF:-1 group-title="KUMPULAN RCTI" tvg-id="rcti.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/640px-RCTI_logo_2015.svg.png",RCTI
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
@@ -661,7 +662,8 @@ http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=683099&extensi
 #EXTINF:-1 tvg-logo="__" group-title="KUMPULAN RCTI", 7
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683099&extension=ts&play_token=GVZS088tcf
 
-#EXTINF:-1 tvg-logo="__" group-title="KUMPULAN RCTI", 8
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="KUMPULAN RCTI", RCTI8
 http://xtv.ooo:8080/owais1/12345/351023
 
 
@@ -677,11 +679,15 @@ http://line.atlaspro4k.me:80/play/live.php?mac=00:1A:79:E2:3F:6B&stream=704433&e
 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/38
 
 
-
-
+#EXTINF:-1 tvg-logo="__" group-title="KUMPULAN RCTI",  18
+http://iptvtree.net:8080/devtv/5af3eeb538/157591
 
 #EXTINF:-1 tvg-logo="__" group-title="KUMPULAN RCTI", 19
 https://mangga-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+
+
+
+
 
 ##### rcti event liga 1 ######
 #EXTINF:-1 tvg-logo="__" group-title="KUMPULAN RCTI", 21

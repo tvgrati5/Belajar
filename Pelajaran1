@@ -746,7 +746,161 @@ https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/30.mp3
 
 ############ PL Indeks Thomasandi#######
 
+#EXTM3U
+#EXTINF:-1 tvg-id="INFO" group-title="Lokal" tvg-logo="https://png.pngtree.com/png-clipart/20210523/original/pngtree-palestine-flag-design-png-image_6317330.jpg" ch-number="92",GTV
+#EXTVLCOPT:http-referrer=https://embed.rctiplus.com/
+https://palestinapridexx-c6ac44d05a7b.herokuapp.com/rplus/index.m3u8?id=gtv&token=x90pkkExvx
+#EXTINF:-1 tvg-id="INFO" group-title="Lokal" tvg-logo="https://png.pngtree.com/png-clipart/20210523/original/pngtree-palestine-flag-design-png-image_6317330.jpg" ch-number="92",RCTI
+#EXTVLCOPT:http-referrer=https://embed.rctiplus.com/
+https://palestinapridexx-c6ac44d05a7b.herokuapp.com/rplus/index.m3u8?id=rcti&token=x90pkkExvx
+#EXTINF:-1 tvg-id="INFO" group-title="Lokal" tvg-logo="https://png.pngtree.com/png-clipart/20210523/original/pngtree-palestine-flag-design-png-image_6317330.jpg" ch-number="92",MNCTV
+#EXTVLCOPT:http-referrer=https://embed.rctiplus.com/
+https://palestinapridexx-c6ac44d05a7b.herokuapp.com/rplus/index.m3u8?id=mnc&token=x90pkkExvx
+#EXTINF:-1 tvg-id="INFO" group-title="Lokal" tvg-logo="https://png.pngtree.com/png-clipart/20210523/original/pngtree-palestine-flag-design-png-image_6317330.jpg" ch-number="92",ANTARA
+https://palestinapridexx-c6ac44d05a7b.herokuapp.com/uzi/dash.mpd?id=antara&token=x90pkkExvx
+#EXTINF:-1 tvg-id="INFO" group-title="Lokal" tvg-logo="https://png.pngtree.com/png-clipart/20210523/original/pngtree-palestine-flag-design-png-image_6317330.jpg" ch-number="92",SCTV
+https://palestinapridexx-c6ac44d05a7b.herokuapp.com/uzi/index.m3u8?id=sctv&token=x90pkkExvx
+#EXTINF:-1 tvg-id="INFO" group-title="Lokal" tvg-logo="https://png.pngtree.com/png-clipart/20210523/original/pngtree-palestine-flag-design-png-image_6317330.jpg" ch-number="92",NET
+http://103.84.206.6:80/stream/17/andithomas.m3u8?username=thomasandi&password=thomasandi
+#EXTINF:-1 tvg-id="INFO" group-title="Lokal" tvg-logo="https://png.pngtree.com/png-clipart/20210523/original/pngtree-palestine-flag-design-png-image_6317330.jpg" ch-number="92",INDOSIAR
+https://palestinapridexx-c6ac44d05a7b.herokuapp.com/uzi/index.m3u8?id=indosiar&token=x90pkkExvx
+#EXTINF:-1 tvg-id="INFO" group-title="Lokal" tvg-logo="https://png.pngtree.com/png-clipart/20210523/original/pngtree-palestine-flag-design-png-image_6317330.jpg" ch-number="92",Moji
+https://palestinapridexx-c6ac44d05a7b.herokuapp.com/uzi/index.m3u8?id=ochannel&token=x90pkkExvx
+#EXTINF:-1 tvg-id="INFO" group-title="Lokal" tvg-logo="https://png.pngtree.com/png-clipart/20210523/original/pngtree-palestine-flag-design-png-image_6317330.jpg" ch-number="92",ANTV
+https://palestinapridexx-c6ac44d05a7b.herokuapp.com/uzi/index.m3u8?id=antv&token=x90pkkExvx
+#EXTINF:-1 tvg-id="INFO" group-title="Lokal" tvg-logo="https://png.pngtree.com/png-clipart/20210523/original/pngtree-palestine-flag-design-png-image_6317330.jpg" ch-number="92",RTV
+https://palestinapridexx-c6ac44d05a7b.herokuapp.com/uzi/index.m3u8?id=rtv&token=x90pkkExvx
+#EXTINF:-1 tvg-id="INFO" group-title="Lokal" tvg-logo="https://png.pngtree.com/png-clipart/20210523/original/pngtree-palestine-flag-design-png-image_6317330.jpg" ch-number="92",TVRI
+https://palestinapridexx-c6ac44d05a7b.herokuapp.com/uzi/dash.mpd?id=tvri&token=x90pkkExvx
+#EXTINF:-1 tvg-id="INFO" group-title="Lokal" tvg-logo="https://png.pngtree.com/png-clipart/20210523/original/pngtree-palestine-flag-design-png-image_6317330.jpg" ch-number="92",INSERT
+https://palestinapridexx-c6ac44d05a7b.herokuapp.com/uzi/index.m3u8?id=insert&token=x90pkkExvx
+#EXTINF:-1 tvg-id="INFO" group-title="Lokal" tvg-logo="https://png.pngtree.com/png-clipart/20210523/original/pngtree-palestine-flag-design-png-image_6317330.jpg" ch-number="92",TRANSTV
+https://palestinapridexx-c6ac44d05a7b.herokuapp.com/uzi/index.m3u8?id=transtv&token=x90pkkExvx
+#EXTINF:-1 tvg-id="INFO" group-title="Lokal" tvg-logo="https://png.pngtree.com/png-clipart/20210523/original/pngtree-palestine-flag-design-png-image_6317330.jpg" ch-number="92",TRANS7
+https://palestinapridexx-c6ac44d05a7b.herokuapp.com/uzi/index.m3u8?id=trans7&token=x90pkkExvx
+#EXTINF:-1 tvg-id="INFO" group-title="Sport" tvg-logo="https://png.pngtree.com/png-clipart/20210523/original/pngtree-palestine-flag-design-png-image_6317330.jpg" ch-number="92",ONE
+https://palestinapridexx-c6ac44d05a7b.herokuapp.com/alkas/index.m3u8?id=one&token=x90pkkExvx
+#EXTINF:-1 tvg-id="INFO" group-title="Sport" tvg-logo="https://png.pngtree.com/png-clipart/20210523/original/pngtree-palestine-flag-design-png-image_6317330.jpg" ch-number="92",TWO
+https://palestinapridexx-c6ac44d05a7b.herokuapp.com/alkas/index.m3u8?id=two&token=x90pkkExvx
+#EXTINF:-1 tvg-id="INFO" group-title="Sport" tvg-logo="https://png.pngtree.com/png-clipart/20210523/original/pngtree-palestine-flag-design-png-image_6317330.jpg" ch-number="92",THREE
+https://palestinapridexx-c6ac44d05a7b.herokuapp.com/alkas/index.m3u8?id=three&token=x90pkkExvx
+#EXTINF:-1 tvg-id="INFO" group-title="Sport" tvg-logo="https://png.pngtree.com/png-clipart/20210523/original/pngtree-palestine-flag-design-png-image_6317330.jpg" ch-number="92",FOUR
+https://palestinapridexx-c6ac44d05a7b.herokuapp.com/alkas/index.m3u8?id=four&token=x90pkkExvx
+#EXTINF:-1 tvg-id="INFO" group-title="Sport" tvg-logo="https://png.pngtree.com/png-clipart/20210523/original/pngtree-palestine-flag-design-png-image_6317330.jpg" ch-number="92",SPOTV 
+https://palestinapridexx-c6ac44d05a7b.herokuapp.com/uzi/index.m3u8?id=spotv&token=x90pkkExvx
+#EXTINF:-1 tvg-id="INFO" group-title="Sport" tvg-logo="https://png.pngtree.com/png-clipart/20210523/original/pngtree-palestine-flag-design-png-image_6317330.jpg" ch-number="92",SPOTV 2
+https://palestinapridexx-c6ac44d05a7b.herokuapp.com/uzi/index.m3u8?id=spotv2&token=x90pkkExvx
+#EXTINF:-1 tvg-id="INFO" group-title="Sport" tvg-logo="https://png.pngtree.com/png-clipart/20210523/original/pngtree-palestine-flag-design-png-image_6317330.jpg" ch-number="92",USEE SPORT
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://palestinapridexx-c6ac44d05a7b.herokuapp.com/uzi/drm.php?id=useesport&token=x90pkkExvx
+https://palestinapridexx-c6ac44d05a7b.herokuapp.com/uzi/index.mpd?id=useesport&token=x90pkkExvx
+#EXTINF:-1 tvg-id="INFO" group-title="Sport" tvg-logo="https://png.pngtree.com/png-clipart/20210523/original/pngtree-palestine-flag-design-png-image_6317330.jpg" ch-number="92",USEE SPORT 2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://palestinapridexx-c6ac44d05a7b.herokuapp.com/uzi/drm.php?id=useesport&token=x90pkkExvx
+https://palestinapridexx-c6ac44d05a7b.herokuapp.com/uzi/index.mpd?id=useesports2&token=x90pkkExvx
+#EXTINF:-1 tvg-id="INFO" group-title="Sport" tvg-logo="https://png.pngtree.com/png-clipart/20210523/original/pngtree-palestine-flag-design-png-image_6317330.jpg" ch-number="92",BEIN 1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://palestinapridexx-c6ac44d05a7b.herokuapp.com/uzi/drm.php?id=bein1&token=x90pkkExvx
+https://palestinapridexx-c6ac44d05a7b.herokuapp.com/uzi/index.mpd?id=bein1&token=x90pkkExvx
+#EXTINF:-1 tvg-id="INFO" group-title="Sport" tvg-logo="https://png.pngtree.com/png-clipart/20210523/original/pngtree-palestine-flag-design-png-image_6317330.jpg" ch-number="92",BEIN 3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://palestinapridexx-c6ac44d05a7b.herokuapp.com/uzi/drm.php?id=bein2&token=x90pkkExvx
+https://palestinapridexx-c6ac44d05a7b.herokuapp.com/uzi/index.mpd?id=bein2&token=x90pkkExvx
+#EXTINF:-1 tvg-id="INFO" group-title="Sport" tvg-logo="https://png.pngtree.com/png-clipart/20210523/original/pngtree-palestine-flag-design-png-image_6317330.jpg" ch-number="92",NBA
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://palestinapridexx-c6ac44d05a7b.herokuapp.com/uzi/drm.php?id=nba&token=x90pkkExvx
+https://palestinapridexx-c6ac44d05a7b.herokuapp.com/uzi/index.mpd?id=nba&token=x90pkkExvx
+#EXTINF:-1 tvg-id="INFO" group-title="Sport" tvg-logo="https://png.pngtree.com/png-clipart/20210523/original/pngtree-palestine-flag-design-png-image_6317330.jpg" ch-number="92",Horizon Sports
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://palestinapridexx-c6ac44d05a7b.herokuapp.com/uzi/drm.php?id=horizonsport&token=x90pkkExvx
+https://palestinapridexx-c6ac44d05a7b.herokuapp.com/uzi/index.mpd?id=horizonsport&token=x90pkkExvx
+#EXTINF:-1 tvg-id="INFO" group-title="Sport" tvg-logo="https://png.pngtree.com/png-clipart/20210523/original/pngtree-palestine-flag-design-png-image_6317330.jpg" ch-number="92",Fight  Sports
+https://palestinapridexx-c6ac44d05a7b.herokuapp.com/uzi/index.m3u8?id=fightsport&token=x90pkkExvx
+#EXTINF:-1 tvg-id="INFO" group-title="Movies" tvg-logo="https://png.pngtree.com/png-clipart/20210523/original/pngtree-palestine-flag-design-png-image_6317330.jpg" ch-number="92",Maxstream
+https://palestinapridexx-c6ac44d05a7b.herokuapp.com/uzi/index.m3u8?id=maxstream&token=x90pkkExvx
+#EXTINF:-1 tvg-id="INFO" group-title="Movies" tvg-logo="https://png.pngtree.com/png-clipart/20210523/original/pngtree-palestine-flag-design-png-image_6317330.jpg" ch-number="92",USA HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=591b46f7cc3d47819ab856f4cdcc84fe:dd07faa621cf6d727cf4f6337e9345c0
+https://bypasus-86d433abdcfd.herokuapp.com/https://linear-novi.stvacdn.spectrum.com/LIVE/1160/dash/cenc/USAHD_22043/manifest.mpd
+#EXTINF:-1 tvg-id="INFO" group-title="Movies" tvg-logo="https://png.pngtree.com/png-clipart/20210523/original/pngtree-palestine-flag-design-png-image_6317330.jpg" ch-number="92",hbo 2 west
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb8077f8e9624b77849a4b3d46b73b7b:1e4ee4689d9e8b9de21a169c517eaa5b
+https://bypasus-86d433abdcfd.herokuapp.com/https://linear.stvacdn.spectrum.com/LIVE/1101/dash/cenc/HBO2PHD_00095/manifest.mpd
+#EXTINF:-1 tvg-id="INFO" group-title="Movies" tvg-logo="https://png.pngtree.com/png-clipart/20210523/original/pngtree-palestine-flag-design-png-image_6317330.jpg" ch-number="92",TVN MOVIES
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://palestinapridexx-c6ac44d05a7b.herokuapp.com/uzi/drm.php?id=tvnmovies&token=x90pkkExvx
+https://palestinapridexx-c6ac44d05a7b.herokuapp.com/uzi/index.mpd?id=tvnmovies&token=x90pkkExvx
+#EXTINF:-1 tvg-id="INFO" group-title="Movies" tvg-logo="https://png.pngtree.com/png-clipart/20210523/original/pngtree-palestine-flag-design-png-image_6317330.jpg" ch-number="92",IMC
+https://palestinapridexx-c6ac44d05a7b.herokuapp.com/uzi/index.m3u8?id=imc&token=x90pkkExvx
+#EXTINF:-1 tvg-id="INFO" group-title="Movies" tvg-logo="https://png.pngtree.com/png-clipart/20210523/original/pngtree-palestine-flag-design-png-image_6317330.jpg" ch-number="92",Galaxy PremiumâŸ
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://palestinapridexx-c6ac44d05a7b.herokuapp.com/uzi/drm.php?id=galaxypremium&token=x90pkkExvx
+https://palestinapridexx-c6ac44d05a7b.herokuapp.com/uzi/index.mpd?id=galaxypremium&token=x90pkkExvx
+#EXTINF:-1 tvg-id="INFO" group-title="Movies" tvg-logo="https://png.pngtree.com/png-clipart/20210523/original/pngtree-palestine-flag-design-png-image_6317330.jpg" ch-number="92",GalaxyâŸ
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://palestinapridexx-c6ac44d05a7b.herokuapp.com/uzi/drm.php?id=galaxy&token=x90pkkExvx
+https://palestinapridexx-c6ac44d05a7b.herokuapp.com/uzi/index.mpd?id=galaxy&token=x90pkkExvx
+#EXTINF:-1 tvg-id="INFO" group-title="Movies" tvg-logo="https://png.pngtree.com/png-clipart/20210523/original/pngtree-palestine-flag-design-png-image_6317330.jpg" ch-number="92",Hits MovieâŸ
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://palestinapridexx-c6ac44d05a7b.herokuapp.com/uzi/drm.php?id=hitsmovie&token=x90pkkExvx
+https://palestinapridexx-c6ac44d05a7b.herokuapp.com/uzi/index.mpd?id=hitsmovie&token=x90pkkExvx
+#EXTINF:-1 tvg-id="INFO" group-title="Movies" tvg-logo="https://png.pngtree.com/png-clipart/20210523/original/pngtree-palestine-flag-design-png-image_6317330.jpg" ch-number="92",FLIKâŸ
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://palestinapridexx-c6ac44d05a7b.herokuapp.com/uzi/drm.php?id=flik&token=x90pkkExvx
+https://palestinapridexx-c6ac44d05a7b.herokuapp.com/uzi/index.mpd?id=flik&token=x90pkkExvx
+#EXTINF:-1 tvg-id="INFO" group-title="Movies" tvg-logo="https://png.pngtree.com/png-clipart/20210523/original/pngtree-palestine-flag-design-png-image_6317330.jpg" ch-number="92",Bioskop IndonesiaâŸ
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://palestinapridexx-c6ac44d05a7b.herokuapp.com/uzi/drm.php?id=bioskopindonesia&token=x90pkkExvx
+https://palestinapridexx-c6ac44d05a7b.herokuapp.com/uzi/index.mpd?id=bioskopindonesia&token=x90pkkExvx
+#EXTINF:-1 tvg-id="INFO" group-title="Movies" tvg-logo="https://png.pngtree.com/png-clipart/20210523/original/pngtree-palestine-flag-design-png-image_6317330.jpg" ch-number="92",Celestia MoviesâŸ
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://palestinapridexx-c6ac44d05a7b.herokuapp.com/uzi/drm.php?id=celestialmovie&token=x90pkkExvx
+https://palestinapridexx-c6ac44d05a7b.herokuapp.com/uzi/index.mpd?id=celestialmovie&token=x90pkkExvx
+#EXTINF:-1 tvg-id="INFO" group-title="Movies" tvg-logo="https://png.pngtree.com/png-clipart/20210523/original/pngtree-palestine-flag-design-png-image_6317330.jpg" ch-number="92",ZbioskopâŸ
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://palestinapridexx-c6ac44d05a7b.herokuapp.com/uzi/drm.php?id=zbioskop&token=x90pkkExvx
+https://palestinapridexx-c6ac44d05a7b.herokuapp.com/uzi/index.mpd?id=zbioskop&token=x90pkkExvx
+#EXTINF:-1 tvg-id="INFO" group-title="Movies" tvg-logo="https://png.pngtree.com/png-clipart/20210523/original/pngtree-palestine-flag-design-png-image_6317330.jpg" ch-number="92",ParamountâŸ
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://palestinapridexx-c6ac44d05a7b.herokuapp.com/uzi/drm.php?id=paramount&token=x90pkkExvx
+https://palestinapridexx-c6ac44d05a7b.herokuapp.com/uzi/index.mpd?id=paramount&token=x90pkkExvx
+#EXTINF:-1 tvg-id="INFO" group-title="Movies" tvg-logo="https://png.pngtree.com/png-clipart/20210523/original/pngtree-palestine-flag-design-png-image_6317330.jpg" ch-number="92",ThrillâŸ
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://palestinapridexx-c6ac44d05a7b.herokuapp.com/uzi/drm.php?id=thrill&token=x90pkkExvx
+https://palestinapridexx-c6ac44d05a7b.herokuapp.com/uzi/index.mpd?id=thrill&token=x90pkkExvx
+#EXTINF:-1 tvg-id="INFO" group-title="Movies" tvg-logo="https://png.pngtree.com/png-clipart/20210523/original/pngtree-palestine-flag-design-png-image_6317330.jpg" ch-number="92",MY Cinema asiaâŸ
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://palestinapridexx-c6ac44d05a7b.herokuapp.com/uzi/drm.php?id=mycinemaasia&token=x90pkkExvx
+https://palestinapridexx-c6ac44d05a7b.herokuapp.com/uzi/index.mpd?id=mycinemaasia&token=x90pkkExvx
+#EXTINF:-1 tvg-id="INFO" group-title="Movies" tvg-logo="https://png.pngtree.com/png-clipart/20210523/original/pngtree-palestine-flag-design-png-image_6317330.jpg" ch-number="92",MY FamilyâŸ
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://palestinapridexx-c6ac44d05a7b.herokuapp.com/uzi/drm.php?id=myfamily&token=x90pkkExvx
+https://palestinapridexx-c6ac44d05a7b.herokuapp.com/uzi/index.mpd?id=myfamily&token=x90pkkExvx
+#EXTINF:-1 tvg-id="INFO" group-title="Movies" tvg-logo="https://png.pngtree.com/png-clipart/20210523/original/pngtree-palestine-flag-design-png-image_6317330.jpg" ch-number="92",MY CinemaâŸ
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://palestinapridexx-c6ac44d05a7b.herokuapp.com/uzi/drm.php?id=mycinema&token=x90pkkExvx
+https://palestinapridexx-c6ac44d05a7b.herokuapp.com/uzi/index.mpd?id=mycinema&token=x90pkkExvx
+#EXTINF:-1 tvg-id="INFO" group-title="Movies" tvg-logo="https://png.pngtree.com/png-clipart/20210523/original/pngtree-palestine-flag-design-png-image_6317330.jpg" ch-number="92",CinemaâŸWolrd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://palestinapridexx-c6ac44d05a7b.herokuapp.com/uzi/drm.php?id=cinemaworld&token=x90pkkExvx
+https://palestinapridexx-c6ac44d05a7b.herokuapp.com/uzi/index.mpd?id=cinemaworld&token=x90pkkExvx
+#EXTINF:-1 tvg-id="INFO" group-title="Musik" tvg-logo="https://png.pngtree.com/png-clipart/20210523/original/pngtree-palestine-flag-design-png-image_6317330.jpg" ch-number="92",Prambos TV
+https://palestinapridexx-c6ac44d05a7b.herokuapp.com/uzi/index.mpd?id=pramborstv&token=x90pkkExvx
+#EXTINF:-1 tvg-id="INFO" group-title="Musik" tvg-logo="https://png.pngtree.com/png-clipart/20210523/original/pngtree-palestine-flag-design-png-image_6317330.jpg" ch-number="92",Musik indo
+https://palestinapridexx-c6ac44d05a7b.herokuapp.com/uzi/index.m3u8?id=musikindo&token=x90pkkExvx
+#EXTINF:-1 tvg-id="INFO" group-title="Musik" tvg-logo="https://png.pngtree.com/png-clipart/20210523/original/pngtree-palestine-flag-design-png-image_6317330.jpg" ch-number="92",MTV LIVE
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://palestinapridexx-c6ac44d05a7b.herokuapp.com/uzi/drm.php?id=mtvlive&token=x90pkkExvx
+https://palestinapridexx-c6ac44d05a7b.herokuapp.com/uzi/index.m3u8?id=mtvlive&token=x90pkkExvx
 
+
+
+
+
+
+
+
+########## TIDAK BISA #########
 #EXTM3U
 #EXTINF:-1 tvg-id="INFO" group-title="Lokal" tvg-logo="https://png.pngtree.com/png-clipart/20210523/original/pngtree-palestine-flag-design-png-image_6317330.jpg" ch-number="92",GTV
 #EXTVLCOPT:http-referrer=https://embed.rctiplus.com/

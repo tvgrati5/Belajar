@@ -1,11 +1,17 @@
 #EXTM3U
 
-MAKKAH
+#EXTINF:-1 tvg-logo="__" group-title="LOKAL", MAKKAH
 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/117
 
-#EXTINF:-1 tvg-logo="https://yurendtv.my.id/mysc/11.religi/alquran.png" tvg-name="ALQURAN" group-title="LOKAL",ALQURAN https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c685730a424301731849249d1577/manifest.mpd #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://apiv2.xaadx.workers.dev
+#EXTINF:-1 tvg-logo="https://yurendtv.my.id/mysc/11.religi/alquran.png" tvg-name="ALQURAN" group-title="LOKAL",ALQURAN
+https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c685730a424301731849249d1577/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://apiv2.xaadx.workers.dev
 
-#EXTINF:-1 tvg-logo="https://yurendtv.my.id/mysc/11.religi/khazanah.png" tvg-name="TV9" group-title="LOKAL",KHAZANAH https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856f08326c016f557be28131b9/manifest.mpd #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://apiv2.xaadx.workers.dev
+#EXTINF:-1 tvg-logo="https://yurendtv.my.id/mysc/11.religi/khazanah.png" tvg-name="TV9" group-title="LOKAL",KHAZANAH
+https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856f08326c016f557be28131b9/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://apiv2.xaadx.workers.dev
 
 #EXTINF:-1 tvg-logo="__" group-title="LOKAL", KHAZANAH
 https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856f08326c016f557be28131b9/manifest.mpd

@@ -31,7 +31,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h143/S4/mnf.m3u8
 #EXTINF:-1 tvg-logo="__" group-title="LOKAL",MNCTV
 http://iptvstream.xyz:8080/Dooby/66754f23/165054
 
-RCTI
+#EXTINF:-1 tvg-logo="__" group-title="LOKAL", RCTI
 http://iptvstream.xyz:8080/Dooby/66754f23/157591
 
 
@@ -390,37 +390,37 @@ http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/29
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DLFXxsk/boo.png" group-title="ASEAN TV", Astro BOO (M)
 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/248
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WvDtNK1/hm.png" group-title="ASEAN TV", NET.
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WvDtNK1/hm.png" group-title="INDONESIA", NET.
 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/41
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/42Q1zYD/cg.png" group-title="ASEAN TV", ANTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/42Q1zYD/cg.png" group-title="INDONESIA", ANTV
 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/42
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ccMVyW2/xsuj.png" group-title="ASEAN TV", INDOSIAR
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ccMVyW2/xsuj.png" group-title="INDONESIA", INDOSIAR
 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/36
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2v1fBK4/fhy.png" group-title="ASEAN TV", TRANS TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2v1fBK4/fhy.png" group-title="INDONESIA", TRANS TV
 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/34
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9HXYCM1/ihyt.png" group-title="ASEAN TV", TRANS 7
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9HXYCM1/ihyt.png" group-title="INDONESIA", TRANS 7
 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/35
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hmLKdfX/xiy.png" group-title="ASEAN TV", SCTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hmLKdfX/xiy.png" group-title="INDONESIA", SCTV
 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/37
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kVLz3ty/mnc.png" group-title="ASEAN TV", MNCTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kVLz3ty/mnc.png" group-title="INDONESIA", MNCTV
 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/40
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SXrk5h0/asrdrd.png" group-title="ASEAN TV", RCTI
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SXrk5h0/asrdrd.png" group-title="INDONESIA", RCTI
 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/38
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yRBwDV1/gtv.png" group-title="ASEAN TV", GTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yRBwDV1/gtv.png" group-title="INDONESIA", GTV
 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/39
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vQwqWFS/TVRI.png" group-title="ASEAN TV", TVRI
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vQwqWFS/TVRI.png" group-title="INDONESIA", TVRI
 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/208
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LN15XmS/R.png" group-title="ASEAN TV", RTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LN15XmS/R.png" group-title="INDONESIA", RTV
 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/210
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JF5Xnb3/hua.png" group-title="ASEAN TV", Hua Hee Tai
@@ -627,37 +627,37 @@ http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/115
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p4G4MW0/ASIA.png" group-title="ASEAN TV", Channel News Asia
 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/116
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Xt3FzCr/HKI.png" group-title="ASEAN TV", Al Quran Al Kareem TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Xt3FzCr/HKI.png" group-title="INDONESIA", Al Quran Al Kareem TV
 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/117
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/47V5Cgh/DGX.png" group-title="ASEAN TV", U Channel
+#EXTINF:-1 tbg-logo="https://i.ibb.co/47V5Cgh/DGX.png" group-title="INDONESIA", U Channel
 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/118
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fqypHb1/JD.png" group-title="ASEAN TV", Tawaf TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fqypHb1/JD.png" group-title="INDONESIA", Tawaf TV
 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/119
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tm1qTWJ/FGD.png" group-title="ASEAN TV", Cartoon Network (E)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tm1qTWJ/FGD.png" group-title="INDONESIA", Cartoon Network (E)
 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/123
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tm1qTWJ/FGD.png" group-title="ASEAN TV", Cartoon Network (ID)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tm1qTWJ/FGD.png" group-title="INDONESIA", Cartoon Network (ID)
 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/124
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2hT5zbw/BXD.png" group-title="ASEAN TV", Dreamworks
 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/125
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Q8Vd5f8/JUD.png" group-title="ASEAN TV", Boomerang
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Q8Vd5f8/JUD.png" group-title="INDONESIA", Boomerang
 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/126
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fDQxnKx/KGH.png" group-title="ASEAN TV", Nickelodeon
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fDQxnKx/KGH.png" group-title="INDONESIA", Nickelodeon
 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/127
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/s24jWj5/ETU.png" group-title="ASEAN TV", Nick Jr
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s24jWj5/ETU.png" group-title="INDONESIA", Nick Jr
 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/128
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cTqRtyw/1691448873525.png" group-title="ASEAN TV", Moonbug
 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1195
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/G39hJds/UG.png" group-title="ASEAN TV", Horee
+#EXTINF:-1 tvg-logo="https://i.ibb.co/G39hJds/UG.png" group-title="INDONESIA", Horee
 http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/129
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HHC6qY5/ha.png" group-title="ASEAN TV", My Kidz

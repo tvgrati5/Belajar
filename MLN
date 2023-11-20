@@ -1,8 +1,75 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="__" group-title="TES", RCTI
-https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+#EXTINF:-1 tvg-logo="__" group-title="LOKAL", TRANS TV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch396%29/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="__" group-title="TES", TRANS 7
+#EXTINF:-1 tvg-logo="__" group-title="LOKAL", TRANS 7
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch397%29/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="__" group-title="LOKAL",ANTV
+http://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8?app_type=web&userid=lite&chname=antv
+
+#EXTINF:-1 tvg-logo="__" group-title="LOKAL",AL JAZIRA
+http://op-group1-swiftservehd-1.dens.tv/h/h246/index.m3u8?app_type=web&userid=lite&chname=Aljazira
+https://op-group1-swiftservehd-1.dens.tv/h/h143/S4/mnf.m3u8
+
+#EXTINF:-1 tvg-logo="__" group-title="LOKAL",MNCTV
+http://op-group1-swiftservehd-1.dens.tv/h/h101/index.m3u8?app_type=web&userid=lite&chname=freedom
+
+
+#EXTINF:-1 tvg-logo="__" group-title="LOKAL",KOMPAS TV
+http://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8?app_type=web&userid=lite&chname=kompas_TV
+
+#EXTINF:-1 tvg-logo="__" group-title="LOKAL",RTV
+http://op-group1-swiftservehd-1.dens.tv/h/h225/index.m3u8?app_type=web&userid=lite&chname=RTV
+http://op-group1-swiftservehd-1.dens.tv/h/h10/02.m3u8
+
+
+#EXTINF:-1 tvg-logo="__" group-title="LOKAL",TV ONE
+http://op-group1-swiftservehd-1.dens.tv/h/h224/index.m3u8?app_type=web&userid=lite&chname=TVONE
+
+#EXTINF:-1 tvg-logo="__" group-title="LOKAL",NET TV
+http://op-group1-swiftservehd-1.dens.tv/h/h223/index.m3u8?app_type=web&userid=lite&chname=Net_TV
+
+
+#EXTINF:-1 tvg-logo="__" group-title="LOKAL",SCTV
+http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8?app_type=web&userid=lite&chname=?
+
+#EXTINF:-1 tvg-logo="__" group-title="LOKAL",TVN
+http://op-group1-swiftservehd-1.dens.tv/h/h215/index.m3u8?app_type=web&userid=lite&chname=TVN
+
+#EXTINF:-1 tvg-logo="__" group-title="LOKAL",METRO
+http://op-group1-swiftservehd-1.dens.tv/h/h211/index.m3u8?app_type=web&userid=lite&chname=MetroTV
+
+#EXTINF:-1 tvg-logo="__" group-title="LOKAL",MOJI
+http://op-group1-swiftservehd-1.dens.tv/h/h210/index.m3u8?app_type=web&userid=lite&chname=Moji
+
+#EXTINF:-1 tvg-logo="__" group-title="LOKAL",INDOSIAR
+http://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8?app_type=web&userid=lite&chname=Indosiar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

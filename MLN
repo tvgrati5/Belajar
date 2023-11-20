@@ -1,18 +1,10 @@
 #EXTM3U
 
+
+
+
 #EXTINF:-1 tvg-logo="__" group-title="LOKAL", MAKKAH
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/117
-
-#EXTINF:-1 tvg-logo="https://yurendtv.my.id/mysc/11.religi/alquran.png" tvg-name="ALQURAN" group-title="LOKAL",ALQURAN
-https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c685730a424301731849249d1577/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://apiv2.xaadx.workers.dev
-
-#EXTINF:-1 tvg-logo="https://yurendtv.my.id/mysc/11.religi/khazanah.png" tvg-name="TV9" group-title="LOKAL",KHAZANAH
-https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856f08326c016f557be28131b9/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://apiv2.xaadx.workers.dev
-
+http://op-group1-swiftservehd-1.dens.tv/h/h241/index.m3u8?app_type=web&userid=lite&chname=Alqur'am_Karim
 #EXTINF:-1 tvg-logo="__" group-title="LOKAL", KHAZANAH
 https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856f08326c016f557be28131b9/manifest.mpd
 #EXTINF:-1 tvg-logo="__" group-title="LOKAL",SUNNAH
@@ -89,6 +81,755 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8?app_type=web&userid=li
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+#######################
+ASEAN TV  ###########
+################################################################################################################################################################################# 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", ###ASEAN TV###
+https://github.com/inaldie/inaldie/raw/main/LOGO.ts
+
+<======================== Malaysia ==========================>
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="TV1.my"   tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/1200px-Logo_of_TV1_%28Malaysia%29.svg.png" tvg-url="" group-title="ASEAN TV",TV 1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b2596000_slENG.m3u8?id=1
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTINF:-1 tvg-id="TV2.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/TV2_%28Malaysia%29_logo.svg/1200px-TV2_%28Malaysia%29_logo.svg.png"   group-title="ASEAN TV",TV 2
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv3/
+#EXTINF:-1 tvg-id="TV3.my" group-title="ASEAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/f5/TV3_%28Malaysia%29.svg/640px-TV3_%28Malaysia%29.svg.png",TV3
+https://aqfadtv.xyz/live/tv3/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/duniasinema/
+#EXTINF:-1 group-title="ASEAN TV" tvg-id=""    tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",Dunia Sinema HD
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTINF:-1 tvg-id="OKEY" tvg-name="TV Okey"   group-title="ASEAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",TV Okey
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b2596000_slENG.m3u8?id=3
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTINF:-1 tvg-id=""   tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV6.jpg" group-title="ASEAN TV",TV 6
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b2596000_slENG.m3u8?id=6
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/8tv/
+#EXTINF:-1 tvg-id="8TV.my" group-title="ASEAN TV"   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Logo_8TV_Malaysia.png",8TV
+https://aqfadtv.xyz/live/8tv/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/inspirasi/
+#EXTINF:-1 tvg-id="" group-title="ASEAN TV"   tvg-logo="https://i.ibb.co/tpJfQ9x/Unifi-Inspirasi.png",Inspirasi
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live29.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/sensasi/
+#EXTINF:-1  tvg-id="" group-title="ASEAN TV"   tvg-logo="https://i.ibb.co/Zm25L8D/Unifi-Sensasi.png",Sensasi
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live30.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/didiktvkpm/
+#EXTINF:-1 tvg-id="DidikTVKPM" group-title="ASEAN TV"   tvg-logo="https://didik.tv/images/logotv2.png",DidikTV KPM
+https://aqfadtv.xyz/live/didiktvkpm/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="Sukan RTM"   tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_SUKANRTM.jpg" group-title="ASEAN TV",Sukan RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=1|Referer=https://rtmklik.rtm.gov.my
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="Berita RTM"   tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/berita_bckg.png" group-title="ASEAN TV",Berita RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b2596000_slENG.m3u8?id=5
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-id="BernamaTV.my"   tvg-logo="https://www.bernama.com/tv/img/bernama.png" group-title="ASEAN TV",Bernama TV
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571307&extension=ts&play_token=GVZS088tcf
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png" group-title="ASEAN TV",Astro Awani
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
+
+<============================== Brunei ======================================>
+
+#EXTINF:-1 group-title="ASEAN TV" tvg-id="Sukmaindera"   tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png",RTB Sukmaindera FHD
+#EXTVLCOPT:network-caching=1000
+https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist.m3u8
+
+#EXTINF:-1 group-title="ASEAN TV" tvg-id="Aneka"   tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/RTB_Aneka.png",RTB Aneka FHD
+#EXTVLCOPT:network-caching=1000
+https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
+
+#EXTINF:-1 group-title="ASEAN TV" tvg-id="GoLive"   tvg-logo="https://i.imgur.com/CGlzsD5.png",RTB Go Live FHD
+#EXTVLCOPT:network-caching=1000
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
+
+<=============================== Mediacorp Singapore ========================================>
+#EXTM3U x-tvg-url="https://github.com/AqFad2811/epg/raw/main/singapore.xml" url-tvg="https://github.com/AqFad2811/epg/raw/main/singapore.xml" refresh="1440" max-conn="1" refresh="24"
+
+#EXTM3U
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZIVl9ETkdTcnBUZVExSnN5YzVZc3lfZ2dWck54bGJybDV3NzZoVFNQRTFCVWJjaUpEdkZlS2RRR3pTNm1WVGNPd1ZzTERoTWx3YkIzaEM4aXlUakkxblZfVmdiQkRSY0prRGNBcmVlbm84dDAzZUZ6aExVZkx3VmUwZVA0aUliUDFZQjRwTHUtRkxuMEFONHF1bDFrdjhKMGJjSnBwamZwSjlpc3ZyTnNvZkdxbXlXR2MtOW50Uk1EbEtCelFSUWhLa3lmRWFqLU91anZWMGozdzFMbFZSUUN5OEdlNFlfa0JZdk5SaGhKUnh6XzJUaHNjMTJHdmNSUGNXWkFmR1M3ZFYtalA3Qk9RMG1XRW5neDg0SzYtOE5IWUdETEtRZGtKVWptX0wyX3lURUJ1cGJnZWd3R2NjMmpyc1J3U1hiX1E9PSZjb250ZXh0VHlwZT1ub25lJmlkPTU3NTQxMTYiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX2NoNV9kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZkhWX0ROR1NycFRlUTFKc3ljNVlzeV9nZ1ZyTnhsYnJsNXc3NmhUU1BFMUJVYmNpSkR2RmVLZFFHelM2bVZUY093VnNMRGhNbHdiQjNoQzhpeVRqSTFuVl9WZ2JCRFJjSmtEY0FyZWVubzh0MDNlRnpoTFVmTHdWZTBlUDRpSWJQMVlCNHBMdS1GTG4wQU40cXVsMWt2OEowYmNKcHBqZnBKOWlzdnJOc29mR3FteVdHYy05bnRSTURsS0J6UVJRaEtreWZFYWotT3VqdlYwajN3MUxsVlJRQ3k4R2U0WV9rQll2TlJoaEpSeHpfMlRoc2MxMkd2Y1JQY1daQWZHUzdkVi1qUDdCT1EwbVdFbmd4ODRLNi04TkhZR0RMS1Fka0pVam1fTDJfeVRFQnVwYmdlZ3dHY2MyanJzUndTWGJfUT09IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=RhHsUk9I8XarcA5FIbDe%2bN46lWE%3d
+#EXTINF:-1 group-title="ASEAN TV" tvg-id="Channel 5" tvg-chno="Channel 5" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776036%27&EntityType=%27Item%27&EntityId=%2797098%27&Width=114&Height=114&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel 5
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/316288/assetType/media/assetFileId/5754116/contextType/PLAYBACK/isAltUrl/False/a.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZCS2VuU0VaaDNQVnBxN3E4ZWY4NGFzcGN3dzJvNDgzS2ZaQmNPZTVfMl9xQ2pEdUU4WERoeURSZ2d3YmZQZ1ltVnA4NWNKMUx5RFYtMVhGTFlra3Y3ZTVRSFVRcmpaLVNUNlV2OTR4NFYzV1Fzb0RQVGxiQnRvOWEwUWZEVENnMENsbjhzbUV2YVZFOFpaWE9rTTVwbzZOSmF1UTJhWEJRM19zT0g5VFNUa1Zqb253ZENZbmN5RXhCZllUSFlhWUd6NXFnNXpFSEZ5b2gwQ2tkNjV1QVg2aWdkeGJkUEN5QkdmcldCYzBLcXczbmpfOFZiVmRQbWJ0M2JWWk5RM0VVN2ZCRDVzTGViMlJsWEN4UVJYNzdGZWhKT0JQRmgyTnBWODllUERHcDdnZFN2RTkyZXZHczRQdW9QazVVaTlBY0RqRk5yTE1XdUh3LXBJUmVyWnMzczQ9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDEyNCIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfY2g4X2Rhc2hfdHZfZHJtIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1UUTNmQktlblNFWmgzUFZwcTdxOGVmODRhc3Bjd3cybzQ4M0tmWkJjT2U1XzJfcUNqRHVFOFhEaHlEUmdnd2JmUGdZbVZwODVjSjFMeURWLTFYRkxZa2t2N2U1UUhVUXJqWi1TVDZVdjk0eDRWM1dRc29EUFRsYkJ0bzlhMFFmRFRDZzBDbG44c21FdmFWRThaWlhPa001cG82TkphdVEyYVhCUTNfc09IOVRTVGtWam9ud2RDWW5jeUV4QmZZVEhZYVlHejVxZzV6RUhGeW9oMENrZDY1dUFYNmlnZHhiZFBDeUJHZnJXQmMwS3F3M25qXzhWYlZkUG1idDNiVlpOUTNFVTdmQkQ1c0xlYjJSbFhDeFFSWDc3RmVoSk9CUEZoMk5wVjg5ZVBER3A3Z2RTdkU5MmV2R3M0UHVvUGs1VWk5QWNEakZOckxNV3VIdy1wSVJlclpzM3M0PSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=S%2fevVkdkuPqivCeZi0gGgRSiOjw%3d
+#EXTINF:-1 group-title="ASEAN TV" tvg-id="Channel 8" tvg-chno="Channel 8" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776034%27&EntityType=%27Item%27&EntityId=%2797104%27&Width=75&Height=101&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel 8 / 8 频道
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/260581/assetType/media/assetFileId/5754124/contextType/PLAYBACK/isAltUrl/False/a.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZDWm92SkFRWHNDWEJ3aGc0bFRxeWhuZVpqX2NxOHlVRWZDbzRzdmNrRVlDUjk5bzJMN3lLOVFnV2JRQzh2Wm1CVDhlUnB3THI1Nld2c3JFcWZLbVhVVUpIWmo5eFhGNmZERVJXd1ZsWmlxeFlyNE1PRUplRlBKTmVZM2RfVU5qZ3NWd3R5TGYwdkZIcHY1b3EySjBXd0tfTTZTNUNubW1SbWdlN3l0ZjZURG5YTVNTbWg3bEYtUFl3UVpkNWlGNkdoV3d3TzdsWWw0cHNHZnRmT0JrTFVxLWYxNXFzWXJ2Rjc3SHQwQnZsVGFWcXZOUmNpSGYtX1JjeFkyT0h4NlRMemhIS2VmYkUtMnVqeUdUc1lFb21oaEp5M0xINHNaSDZPTS0xVlVrVHJnczJjck9iWnZkTTc5ZWFnQjUzdXJlOEVmcGM1MEpaa29vZ0c0aFg3Y2ZUM3c9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDE1NyIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfdHZfZHJtIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1UUTNmQ1pvdkpBUVhzQ1hCd2hnNGxUcXlobmVaal9jcTh5VUVmQ280c3Zja0VZQ1I5OW8yTDd5SzlRZ1diUUM4dlptQlQ4ZVJwd0xyNTZXdnNyRXFmS21YVVVKSFpqOXhYRjZmREVSV3dWbFppcXhZcjRNT0VKZUZQSk5lWTNkX1VOamdzVnd0eUxmMHZGSHB2NW9xMkowV3dLX002UzVDbm1tUm1nZTd5dGY2VERuWE1TU21oN2xGLVBZd1FaZDVpRjZHaFd3d083bFlsNHBzR2Z0Zk9Ca0xVcS1mMTVxc1lydkY3N0h0MEJ2bFRhVnF2TlJjaUhmLV9SY3hZMk9IeDZUTHpoSEtlZmJFLTJ1anlHVHNZRW9taGhKeTNMSDRzWkg2T00tMVZVa1RyZ3MyY3JPYlp2ZE03OWVhZ0I1M3VyZThFZnBjNTBKWmtvb2dHNGhYN2NmVDN3PSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=%2blzE%2bHdjdw5VZDNIVyptVvY%2fFLI%3d
+#EXTINF:-1 group-title="ASEAN TV" tvg-id="Channel U" tvg-chno="Channel U" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776040%27&EntityType=%27Item%27&EntityId=%2797129%27&Width=114&Height=114&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel U / U 频道
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/330332/assetType/media/assetFileId/5754157/contextType/PLAYBACK/isAltUrl/False/a.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZPa1MzdzV6MVkyVlhzalJGSmo2SmViTk1pWnNfcTE1cWYwRHVreW9nbUVpb3dYcVRWajgwMkM4Z2FreFZqYzZTZTFfTFRDZlhFTjhXM1pqMzJJcnkzQkxlRmxTaDJ6UXVFN2NoT0ZGcElrcmlDYjhTS0JRd214UURwQUJlQVVzZ0tRcmZsdHo3cTctOWRMbjM0cmY4MEdwYkdGUkJmWnZJaV9PNGRPZ0NqUV9JUk9MWlVMeUJCN1NmSjB3cE91UUlMZk9ORHpmTGZ0UVJpWHl3MXJnN0pseFB6Q2dVZDg2NGNhNFFWcmw2SDBockVjU3A2YzMwTFl3WE40Y2dFYVpQY2UtN3cycnhrcEJQY2NnV0pZWmFLR21YMWptZ01KeHBwTFVPdDVZZHhUZVlTSS1sVVBhbG9KeUpBOG1aSEN3S3c9PSZjb250ZXh0VHlwZT1ub25lJmlkPTU3NTQxNDkiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX2NuYVNfZGFzaF90dl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZPa1MzdzV6MVkyVlhzalJGSmo2SmViTk1pWnNfcTE1cWYwRHVreW9nbUVpb3dYcVRWajgwMkM4Z2FreFZqYzZTZTFfTFRDZlhFTjhXM1pqMzJJcnkzQkxlRmxTaDJ6UXVFN2NoT0ZGcElrcmlDYjhTS0JRd214UURwQUJlQVVzZ0tRcmZsdHo3cTctOWRMbjM0cmY4MEdwYkdGUkJmWnZJaV9PNGRPZ0NqUV9JUk9MWlVMeUJCN1NmSjB3cE91UUlMZk9ORHpmTGZ0UVJpWHl3MXJnN0pseFB6Q2dVZDg2NGNhNFFWcmw2SDBockVjU3A2YzMwTFl3WE40Y2dFYVpQY2UtN3cycnhrcEJQY2NnV0pZWmFLR21YMWptZ01KeHBwTFVPdDVZZHhUZVlTSS1sVVBhbG9KeUpBOG1aSEN3S3c9PSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=6ksd7F%2f02j%2fnoT7UMcgmhHxgGOk%3d
+#EXTINF:-1 group-title="ASEAN TV" tvg-id="CNA" tvg-chno="CNA" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776042%27&EntityType=%27Item%27&EntityId=%2797072%27&Width=78&Height=96&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",CNA
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/197985/assetType/media/assetFileId/5754149/contextType/PLAYBACK/isAltUrl/False/a.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZQMV83OWZ4cEFrSDhDYncxVE9ZaDYzclZyR2NSN3MtczZoR2FESHk1ZmlFRk1NM280dGVBemdTSFBuaW9XdTFPYjAyOUYyTGFhU29UT3lxZ1MzbEplNWxQRG01X09TelllSTZEbjJlMDhEcXdhWHVGZUtoSTVuWFE4b29ENk9EM29sWW1oRnF3cDhEZ2tDd3U5NUlXbll1VW9wTEYtcjNSNnp2RGdSeWlKV2stQjBvMHpkSWd2b2NWYnNDbXFDTk1LcWk1OVU2YkVpeDdpQ1NmRnBKYk1relBjUm0yWmk4MUcyMGxuNjJRbzZxSVlhYWR1Qzc4elNTckJMc09rTnJiUUU4Y3RLMGVHUWRBUHFQSFlfUFRXWVR3QndlTzhFOUw0T0JTcHNmRnUyRVI0WS1UTFFyNWdUbUlPZHVIalJDczl1OEh3YVRQVWREc25Zblo5UEdrZnlwdktuanNBb21JX3B4LVV1VEtGRFAmY29udGV4dFR5cGU9bm9uZSZpZD01NzU0MDY2IiwiYWNjb3VudF9pZCI6MjA4MjMxMSwiY29udGVudF9pZCI6ImZ0YV9zdXJpYV9kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZlAxXzc5ZnhwQWtIOENidzFUT1loNjNyVnJHY1I3cy1zNmhHYURIeTVmaUVGTU0zbzR0ZUF6Z1NIUG5pb1d1MU9iMDI5RjJMYWFTb1RPeXFnUzNsSmU1bFBEbTVfT1N6WWVJNkRuMmUwOERxd2FYdUZlS2hJNW5YUThvb0Q2T0Qzb2xZbWhGcXdwOERna0N3dTk1SVduWXVVb3BMRi1yM1I2enZEZ1J5aUpXay1CMG8wemRJZ3ZvY1Zic0NtcUNOTUtxaTU5VTZiRWl4N2lDU2ZGcEpiTWt6UGNSbTJaaTgxRzIwbG42MlFvNnFJWWFhZHVDNzh6U1NyQkxzT2tOcmJRRThjdEswZUdRZEFQcVBIWV9QVFdZVHdCd2VPOEU5TDRPQlNwc2ZGdTJFUjRZLVRMUXI1Z1RtSU9kdUhqUkNzOXU4SHdhVFBVZERzblluWjlQR2tmeXB2S25qc0FvbUlfcHgtVXVUS0ZEUCIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=cWXGM81%2bzx%2b74zz395r51jIiwX0%3d
+#EXTINF:-1 group-title="ASEAN TV" tvg-id="Suria" tvg-chno="Suria" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271375229%27&EntityType=%27Item%27&EntityId=%2797084%27&Width=300&Height=300&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Suria
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237652/assetType/media/assetFileId/5754066/contextType/PLAYBACK/isAltUrl/False/a.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZPMWN3b0JFcFpGQ0NwMm5nR3JLdi1OSV9kXzJlcTFqeHRETVUxbDhqaE1GZlB3dlh4UHJLMXllMEpEajdZMEQtTno5V2pWSkwweVFYZlNLamY0bkhXYUpCbDVZd25PYkszSWRPd1RFOXdGNmh1UTNrMEk5ZUtIRVBmdkVjOENBZG8wSVRKYnpQN09RU0lOcklHdmpRX3ZWZ1oyWXd5bzlxREV4eXVXQ0I2Nk13SnhyZ1FWSXlXQ1RpYjhOT19hU0taZ3YtTlVhSzVkRkJwWElDTTFxazdEeThsdWxTSVk3Z01RblpYTG1JWWhyNDJkbVdSVjIwMDBESzd6OV9KdlBwWVMzNjlFOUJ3MXo4MzZVTHU2QXJfby1taVI5YzFBWmtydXJzemJSeFBpcVNHQTVaLU5hVkZqemJKbU1JWXNoYUE9PSZjb250ZXh0VHlwZT1ub25lJmlkPTU3NTQxMDgiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX3Zhc2FudGhhbV9kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZk8xY3dvQkVwWkZDQ3AybmdHckt2LU5JX2RfMmVxMWp4dERNVTFsOGpoTUZmUHd2WHhQcksxeWUwSkRqN1kwRC1OejlXalZKTDB5UVhmU0tqZjRuSFdhSkJsNVl3bk9iSzNJZE93VEU5d0Y2aHVRM2swSTllS0hFUGZ2RWM4Q0FkbzBJVEpielA3T1FTSU5ySUd2alFfdlZnWjJZd3lvOXFERXh5dVdDQjY2TXdKeHJnUVZJeVdDVGliOE5PX2FTS1pndi1OVWFLNWRGQnBYSUNNMXFrN0R5OGx1bFNJWTdnTVFuWlhMbUlZaHI0MmRtV1JWMjAwMERLN3o5X0p2UHBZUzM2OUU5QncxejgzNlVMdTZBcl9vLW1pUjljMUFaa3J1cnN6YlJ4UGlxU0dBNVotTmFWRmp6YkptTUlZc2hhQT09IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=AnGb0aZdpVsQ5y%2bRaQvUc1Mw6gc%3d
+#EXTINF:-1 group-title="ASEAN TV" tvg-id="Vasantham" tvg-chno="Vasantham" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776032%27&EntityType=%27Item%27&EntityId=%2797096%27&Width=129&Height=63&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Vasantham
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237653/assetType/media/assetFileId/5754108/contextType/PLAYBACK/isAltUrl/False/a.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZGQlJHRkZZYzJrWUdycUJaWTFYWEFVVkZKUDZ1SVZyaE5aSlZlS1FXTDduWS01Rm5yS2V5VGhZeC1uVERHZjFSbXRPYUNQQ2xpSzZKUkxqYkliLWlibDY5MTVXTUZYSF9pbm1RVm1jcGtCOVZBQm5WTm40RExHV3YwYklKQktPU0NDUWR6YWlLOGN1WXdPZXRSRURWRThvLUlpTk1rckVOb3prVXU5TUE4Y0psYUlWUkZMejFmLXJNQmt1bk9HaVR2SVNGaFk0UGl5RGt1Y1NlWlRRMVEtWTlVeGJ2TFpZSFRWcF9pWjkxOXAwTmxqSy11OFpmaE1wbkEzSklwLVc5S1hndU1mbzNtOHdyZDh3Y1p6OERPd1NkenFnZ2xldkxRQXIyUm9nb2thd2k2bUhNbFBRVTlJam9qTlgtdDZDWmZIUkF1Ul9yUDJKMVdSUnZRMHBmSFg1NmtieWFtdDdZVTU2WGpVMHlBVmomY29udGV4dFR5cGU9bm9uZSZpZD0xMjM2NjMyMCIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJhZGhvY19va3RvbGlkYXlzX2Rhc2hfdHZfZHJtIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1UUTNmRkJSR0ZGWWMya1lHcnFCWlkxWFhBVVZGSlA2dUlWcmhOWkpWZUtRV0w3blktNUZucktleVRoWXgtblRER2YxUm10T2FDUENsaUs2SlJMamJJYi1pYmw2OTE1V01GWEhfaW5tUVZtY3BrQjlWQUJuVk5uNERMR1d2MGJJSkJLT1NDQ1FkemFpSzhjdVl3T2V0UkVEVkU4by1JaU5Na3JFTm96a1V1OU1BOGNKbGFJVlJGTHoxZi1yTUJrdW5PR2lUdklTRmhZNFBpeURrdWNTZVpUUTFRLVk5VXhidkxaWUhUVnBfaVo5MTlwME5sakstdThaZmhNcG5BM0pJcC1XOUtYZ3VNZm8zbTh3cmQ4d2NaejhET3dTZHpxZ2dsZXZMUUFyMlJvZ29rYXdpNm1ITWxQUVU5SWpvak5YLXQ2Q1pmSFJBdVJfclAySjFXUlJ2UTBwZkhYNTZrYnlhbXQ3WVU1NlhqVTB5QVZqIiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=8mrAE1nSQxryVnMihqMC1ZDhSjU%3d
+#EXTINF:-1 group-title="ASEAN TV" tvg-id="oktolidays.sg" tvg-chno="oktolidays.sg" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format='png'&Quality=85&ImageId='4132072'&EntityType='Item'&EntityId='258705'&Width=237&Height=237&ResizeAction='fill'&HorizontalAlignment='center'&VerticalAlignment='top'",Oktolidays
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/879237/assetType/media/assetFileId/12366320/contextType/PLAYBACK/isAltUrl/False/a.mpd
+
+<================================== China =========================>
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/TVBS_Asia_logo_2017.png/220px-TVBS_Asia_logo_2017.png" group-title="ASEAN TV",TVB Asia
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/tvbsasia.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Jiangsu_Broadcasting_Corporation.svg/1200px-Jiangsu_Broadcasting_Corporation.svg.png" group-title="ASEAN TV",JiangsuTV
+https://nyanv-live-cdn.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/184/708/png-transparent-hunan-television-television-channel-mango-tv-stale-television-angle-text-thumbnail.png" group-title="ASEAN TV",HunanTV
+https://nyanv-live-cdn.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/dragon-television-logo-6942D37A27-seeklogo.com.png" group-title="ASEAN TV",Shanghai Dragon TV
+https://nyanv-live-cdn.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://myrepublic.co.id/wp-content/uploads/2019/05/Xing-Kong.jpg" group-title="ASEAN TV",XingkongTV
+https://nyanv-live-cdn.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://jadibatek.com/wp-content/uploads/2020/04/anhui-tv-logo.jpg" group-title="ASEAN TV",Anhui TV
+https://nyanv-live-cdn.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yyhc1dd/TV1.png" group-title="ASEAN TV", TV1
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yyhc1dd/TV1.png" group-title="ASEAN TV", TV1 (FHD)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/2
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jk4xT5Y/TV2.png" group-title="ASEAN TV", TV2
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/3
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jk4xT5Y/TV2.png" group-title="ASEAN TV", TV2 (FHD)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wyQ5WsX/TV3.png" group-title="ASEAN TV", TV3 (Full HD)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/5
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wyQ5WsX/TV3.png" group-title="ASEAN TV", TV3(HD)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/6
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wyQ5WsX/TV3.png" group-title="ASEAN TV", TV3(SD)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/7
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8d4qB3r/6.png" group-title="ASEAN TV", TV6
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/203
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3CDW0mq/ntv7.png" group-title="ASEAN TV", NTV7
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BKdBNyc/8tv.png" group-title="ASEAN TV", 8TV
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/9
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PrdzrVH/tv9.png" group-title="ASEAN TV", TV9
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/10
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PrdzrVH/tv9.png" group-title="ASEAN TV", TV9(B)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/11
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3T4Twcg/TVS.png" group-title="ASEAN TV", TVS
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/214
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ssqm5mj/okey.png" group-title="ASEAN TV", Okey
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/12
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sgf8zg9/dramasngt.png" group-title="ASEAN TV", Drama Sangat
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/13
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3cRLMZy/1684738476513.png" group-title="ASEAN TV", Dunia Sinema
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1083
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L87hNTb/1691020841612.png" group-title="ASEAN TV", Enjoy TV5
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1187
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4Yk4xvz/awe.png" group-title="ASEAN TV", Awesome TV
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/387
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7bWBVPC/liu.png" group-title="ASEAN TV", Alhijrah
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/14
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3pLZ1gF/dfrh.png" group-title="ASEAN TV", Astro Bernama
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/15
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dc0r0YG/awani.png" group-title="ASEAN TV", Astro Awani
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/16
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dc0r0YG/awani.png" group-title="ASEAN TV", Astro Awani(B)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/17
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9TF3GH2/oasis.png" group-title="ASEAN TV", Astro Oasis
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/18
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1byf8wn/ceria.png" group-title="ASEAN TV", Astro Ceria
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/19
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1byf8wn/ceria.png" group-title="ASEAN TV", Astro Ceria(B)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/20
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vBmrN6s/1695007683583.png" group-title="ASEAN TV", Astro Premier
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1279
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/71gHj4x/prima.png" group-title="ASEAN TV", Astro Prima
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/21
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/71gHj4x/prima.png" group-title="ASEAN TV", Astro Prima (SD)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1244
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hyDJ483/ria.png" group-title="ASEAN TV", Astro Ria
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/23
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hyDJ483/ria.png" group-title="ASEAN TV", Astro Ria (B)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/224
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hyDJ483/ria.png" group-title="ASEAN TV", Astro Ria (C)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/282
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8Xb67V5/warna.png" group-title="ASEAN TV", Astro Warna (A)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/297
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8Xb67V5/warna.png" group-title="ASEAN TV", Astro Warna (C)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/24
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8Xb67V5/warna.png" group-title="ASEAN TV", Astro Warna(B)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/25
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YTtVttS/citra.png" group-title="ASEAN TV", Astro Citra
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/26
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YTtVttS/citra.png" group-title="ASEAN TV", Astro Citra(B)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/27
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YbNWSYK/aura.png" group-title="ASEAN TV", Astro Aura
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/28
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Qb0vSRX/rania.png" group-title="ASEAN TV", Astro Rania
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/29
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DLFXxsk/boo.png" group-title="ASEAN TV", Astro BOO (M)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/248
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WvDtNK1/hm.png" group-title="ASEAN TV", NET.
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/41
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/42Q1zYD/cg.png" group-title="ASEAN TV", ANTV
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/42
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ccMVyW2/xsuj.png" group-title="ASEAN TV", INDOSIAR
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/36
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2v1fBK4/fhy.png" group-title="ASEAN TV", TRANS TV
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/34
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9HXYCM1/ihyt.png" group-title="ASEAN TV", TRANS 7
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/35
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hmLKdfX/xiy.png" group-title="ASEAN TV", SCTV
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/37
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kVLz3ty/mnc.png" group-title="ASEAN TV", MNCTV
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/40
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SXrk5h0/asrdrd.png" group-title="ASEAN TV", RCTI
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/38
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yRBwDV1/gtv.png" group-title="ASEAN TV", GTV
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/39
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vQwqWFS/TVRI.png" group-title="ASEAN TV", TVRI
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/208
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LN15XmS/R.png" group-title="ASEAN TV", RTV
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/210
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JF5Xnb3/hua.png" group-title="ASEAN TV", Hua Hee Tai
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/46
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nf47yDP/quan.png" group-title="ASEAN TV", Quan Jia
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/47
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PmF1dwz/iq.png" group-title="ASEAN TV", IQiyi
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/48
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHr5H0c/aec.png" group-title="ASEAN TV", Astro AEC
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/43
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HtFTY5p/CCMB.png" group-title="ASEAN TV", Celestial Movies
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/49
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DWBbYKb/CCM.png" group-title="ASEAN TV", Celestial Classic Movies_A
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/50
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6v0dDhD/vbs.png" group-title="ASEAN TV", HBO FHD
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/517
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6v0dDhD/vbs.png" group-title="ASEAN TV", HBO (M)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/54
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6v0dDhD/vbs.png" group-title="ASEAN TV", HBO (ID)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/346
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vP3hkjH/hhit.png" group-title="ASEAN TV", HBO Hits
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/55
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F8P2mxK/cccc.png" group-title="ASEAN TV", HBO Family
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/56
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gM7NfQ4/SS.png" group-title="ASEAN TV", HBO Signature
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/57
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7RkycsQ/SHOW2.png" group-title="ASEAN TV", SHOWCASE MOVIES
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/419
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CnCTbWF/1678072846613.png" group-title="ASEAN TV", Rock Action HD
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1045
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/thSvUUd.png" group-title="ASEAN TV", Paramount Network
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/417
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v4HHF9i.png" group-title="ASEAN TV", MyCinema
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/414
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R7Iuxbd.png" group-title="ASEAN TV", MyCinema Asia
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/415
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5AXoTOA.png" group-title="ASEAN TV", MyFamily Cinema
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/416
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HGvLHCW/flix.png" group-title="ASEAN TV", &Flix HD
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/141
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pzT2R3L/prive.png" group-title="ASEAN TV", &Prive HD
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/63
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0r0rNmL/star2.png" group-title="ASEAN TV", Star Movies (FHD)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/220
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TwQW9vw/star1.png" group-title="ASEAN TV", Star Movie Select
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/221
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ymCPqwd/pix.png" group-title="ASEAN TV", SONY Pix (FHD)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/223
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2yN1dXR/mnx.png" group-title="ASEAN TV", MNX HD (FHD)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/222
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tz61VMJ/CINE.png" group-title="ASEAN TV", Cinemax
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/65
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/y8mYp3m/KM.png" group-title="ASEAN TV", Galaxy
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/66
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KDtzx9N/GALA.png" group-title="ASEAN TV", Galaxy Premium
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/67
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pvtZymR/HITSM.png" group-title="ASEAN TV", HITS Movies
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/68
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GTwmZ6y/GD.png" group-title="ASEAN TV", CinemaWorld
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/69
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SsZmZyZ/THRILL.png" group-title="ASEAN TV", Thrill
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/70
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2tLWNGj/IMC.png" group-title="ASEAN TV", IMC
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/71
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dKCktbq/FLIK.png" group-title="ASEAN TV", Flik
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/72
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n8RTy91/MLML.png" group-title="ASEAN TV", Bioskop Indonesia
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/73
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JnkYkJZ/KIX.png" group-title="ASEAN TV", KIX (M)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/75
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nC2W1KT/azx.png" group-title="ASEAN TV", AXN
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/76
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NxYV4qj/sf.png" group-title="ASEAN TV", BBC Lifestyle
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/77
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jfF9CGJ/hfgdgf.png" group-title="ASEAN TV", HGTV
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/78
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GR4H1Tt/jjkj.png" group-title="ASEAN TV", Warner TV
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/79
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dmdgGrw/tyeer.png" group-title="ASEAN TV", Lifetime
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/80
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7jpK2DZ/khjk.png" group-title="ASEAN TV", Blue Ant Entertainment
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/81
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/D771crF/HITS.png" group-title="ASEAN TV", HITS
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/86
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xMTGjYM/CRIME.png" group-title="ASEAN TV", Crime Investigation
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/87
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jTmR3CN/FAS.png" group-title="ASEAN TV", Fashion TV
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/88
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p18DqB3/love.png" group-title="ASEAN TV", Love Nature
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/89
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gMJG9Sy/bbbbb.png" group-title="ASEAN TV", BBC Earth
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/90
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CJjqgZB/dmax.png" group-title="ASEAN TV", DMAX
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/91
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d5hDH0n/gki.png" group-title="ASEAN TV", History
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/92
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/84RvFKs/vvgfgh.png" group-title="ASEAN TV", Nat Geo Wild
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/95
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TcyfXJg/cdcd.png" group-title="ASEAN TV", Animal Planet
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/96
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1z4b36S/dg.png" group-title="ASEAN TV", Discovery Channel
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/97
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yp9VS86/tytyt.png" group-title="ASEAN TV", Discovery Asia
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/98
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7r4PJqy/bsd.png" group-title="ASEAN TV", AFC
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/100
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZG7LvmZ/tlc.png" group-title="ASEAN TV", TLC
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/101
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k8Xw5R5/ANIMAX.png" group-title="ASEAN TV", Animax
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/102
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0KcgzHj/ANIPLUS.png" group-title="ASEAN TV", Aniplus
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/103
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x64s18m/GEM.png" group-title="ASEAN TV", Sony GEM TV
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/105
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cTxMPTx/inews.png" group-title="ASEAN TV", iNews
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/209
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VCsvKyP/wry.png" group-title="ASEAN TV", TVOne
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/106
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QpDxmym/cgki.png" group-title="ASEAN TV", KOMPAS TV
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/107
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d5QDk3h/mbu.png" group-title="ASEAN TV", METRO TV
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/108
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1Mm8bDd/sea.png" group-title="ASEAN TV", SEA Today
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/109
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/chQwMP9/bbc.png" group-title="ASEAN TV", BBC World News
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/110
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/310w5wt/NHK.png" group-title="ASEAN TV", NHK World
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/111
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PTwNmc8/CNN.png" group-title="ASEAN TV", CNN International
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/112
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/X2LRcJv/CNN.png" group-title="ASEAN TV", CNN Indonesia
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/113
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8jd16F7/DW.png" group-title="ASEAN TV", DW
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/114
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/86LXN1S/BLOOMBERG.png" group-title="ASEAN TV", Bloomberg
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/115
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p4G4MW0/ASIA.png" group-title="ASEAN TV", Channel News Asia
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/116
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Xt3FzCr/HKI.png" group-title="ASEAN TV", Al Quran Al Kareem TV
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/117
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/47V5Cgh/DGX.png" group-title="ASEAN TV", U Channel
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/118
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fqypHb1/JD.png" group-title="ASEAN TV", Tawaf TV
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/119
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tm1qTWJ/FGD.png" group-title="ASEAN TV", Cartoon Network (E)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/123
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tm1qTWJ/FGD.png" group-title="ASEAN TV", Cartoon Network (ID)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/124
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2hT5zbw/BXD.png" group-title="ASEAN TV", Dreamworks
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/125
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Q8Vd5f8/JUD.png" group-title="ASEAN TV", Boomerang
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/126
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fDQxnKx/KGH.png" group-title="ASEAN TV", Nickelodeon
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/127
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s24jWj5/ETU.png" group-title="ASEAN TV", Nick Jr
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/128
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cTqRtyw/1691448873525.png" group-title="ASEAN TV", Moonbug
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1195
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/G39hJds/UG.png" group-title="ASEAN TV", Horee
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/129
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HHC6qY5/ha.png" group-title="ASEAN TV", My Kidz
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/131
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RN3wYV1/YDD.png" group-title="ASEAN TV", Baby TV
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/182
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VvSVjqt/sr.png" group-title="ASEAN TV", BabyFirst
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/132
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/b6VfXKX/ONE.png" group-title="ASEAN TV", Sony One (M)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/134
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zxZMRh1/TVN.png" group-title="ASEAN TV", tvN
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/135
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/99hRDQH/TVNM.png" group-title="ASEAN TV", tvN Movies
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/136
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VmHKBHZ/ARIRANG.png" group-title="ASEAN TV", Arirang
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/137
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xj5SPZj/KPLUS.png" group-title="ASEAN TV", K+
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/140
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Z68728P/1684670001833.png" group-title="ASEAN TV", ZEE Cinema (My)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/143
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bwb8UOO.png" group-title="ASEAN TV", BoxOffice Thangathirai
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/498
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6nckVgB/1692077025487.png" group-title="ASEAN TV", Astro Vellathirai
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1208
+
+#EXTINF:-1 tvg-logo="https://i.imgur.io/wzmYdjQ_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="ASEAN TV", Colors HD
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/421
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/X5t0PkR/1692076554398.png" group-title="ASEAN TV", Zee Tamil
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1205
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9vBBQzT/Vanavil.png" group-title="ASEAN TV", Astro Vaanavil
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/145
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nnL6M6Z/ZEEB.png" group-title="ASEAN TV", ZEE Bioskop
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/142
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zVKhdjR/rtm.png" group-title="ASEAN TV", RTM Sports
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/146
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZVs9f7v/arena.png" group-title="ASEAN TV", Arena
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/147
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZVs9f7v/arena.png" group-title="ASEAN TV", Arena 2
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/420
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nC1b79D/1677144431710.png" group-title="ASEAN TV", Arena Bola (Live Only)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1043
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nC1b79D/1677144431710.png" group-title="ASEAN TV", Arena Bola 2 (Live Only)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1044
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jTYPgJh/1679052247679.png" group-title="ASEAN TV", Arena Bola 3 (Live Only)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1055
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C65N4rM/1679052282854.png" group-title="ASEAN TV", Arena Bola 4 (Live Only)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1056
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4mPVnHy/1684377315197.png" group-title="ASEAN TV", NOW Sport 1
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1077
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/711T35R/1684377390405.png" group-title="ASEAN TV", NOW Sport 2
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1078
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BzXYn27/1684377425609.png" group-title="ASEAN TV", NOW Sport 3
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1079
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rH7KGqv/1684377457357.png" group-title="ASEAN TV", NOW Sport 4
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1080
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c1MZSvW/1684377518885.png" group-title="ASEAN TV", NOW Sport 5
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1081
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1bYD50N/assp.png" group-title="ASEAN TV", ASSP_A
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/148
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZgvRD0S/wrgdsfg.png" group-title="ASEAN TV", ASSP2_A
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/149
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZgvRD0S/wrgdsfg.png" group-title="ASEAN TV", ASSP2_B
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/571
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KLY1rvJ/BDR.png" group-title="ASEAN TV", ASSP3_A
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/232
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KLY1rvJ/BDR.png" group-title="ASEAN TV", ASSP3_B
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/572
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/y04NgZ9/GSDFGD.png" group-title="ASEAN TV", ASSP4_A
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/249
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/y04NgZ9/GSDFGD.png" group-title="ASEAN TV", ASSP4_B
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/573
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PM0qNz8/hdg.png" group-title="ASEAN TV", beIN Sports 1 ID
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/155
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5vfCzNb/was.png" group-title="ASEAN TV", beIN Sports 2 ID
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/156
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bdC18Cx/zsfr.png" group-title="ASEAN TV", BeIN Sport (MY)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/158
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zbF5Nrk/1646542977757.png" group-title="ASEAN TV", BT Sport 1
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/550
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fF9ZKmh/1646543026579.png" group-title="ASEAN TV", BT Sport 2
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/549
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/47f0Fvt/etwq.png" group-title="ASEAN TV", Champions 1
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/157
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sJY8zst/usport.png" group-title="ASEAN TV", Usee Sport 1
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/241
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sJY8zst/usport.png" group-title="ASEAN TV", Usee Sport 2
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/242
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0spF5Ei.png" group-title="ASEAN TV", SPOTV (MY)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/418
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0spF5Ei.png" group-title="ASEAN TV", SPOTV (IDN)
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/952
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0spF5Ei.png" group-title="ASEAN TV", Spotv 2
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/565
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kKbY94c/wwe.png" group-title="ASEAN TV", WWE
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/350
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4ZNgGVx/eu.png" group-title="ASEAN TV", Eurosport
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/328
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4ZNgGVx/eu.png" group-title="ASEAN TV", Eurosport 2
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/953
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XbNF7Bq/rugby.png" group-title="ASEAN TV", Rugby TV
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/337
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/J7Hs50x/vs.png" group-title="ASEAN TV", NBA TV
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/160
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qRkkPwS/ewry.png" group-title="ASEAN TV", Fight Sport
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/161
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NN94bf1/ghg.png" group-title="ASEAN TV", MTV Live HD
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/206
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Lp37NT5/fs.png" group-title="ASEAN TV", Channel V. Int
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/205
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jfZWXXK/prambos.jpg" group-title="ASEAN TV", Prambors
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/207
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7Yq0Ygw/ikonser.jpg" group-title="ASEAN TV", i-Konser
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/204
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7S24MGc/adh.png" group-title="ASEAN TV", NBC Golf
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/159
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/H2vk3k7/1642736150726.png" group-title="ASEAN TV", O Channel
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/512
 
 
 

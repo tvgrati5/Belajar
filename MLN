@@ -11,8 +11,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch397%29/index
 #EXTINF:-1 tvg-logo="__" group-title="LOKAL",ANTV
 http://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8?app_type=web&userid=lite&chname=antv
 
-#EXTINF:-1 tvg-logo="__" group-title="LOKAL",AL JAZIRA
-##http://op-group1-swiftservehd-1.dens.tv/h/h246/index.m3u8?app_type=web&userid=lite&chname=Aljazira
+#EXTINF:-1 tvg-logo="__" group-title="LOKAL",ALJAZIRA
 https://op-group1-swiftservehd-1.dens.tv/h/h143/S4/mnf.m3u8
 
 #EXTINF:-1 tvg-logo="__" group-title="LOKAL",MNCTV

@@ -5,8 +5,8 @@
 
 #EXTM3U
 
-
-
+#EXTINF:-1 tvg-logo="__" group-title="LOKAL", ASWAJA TV
+https://aswaja.live/UCC3qFYC1N4UemcknFB7XR6g/D9Gigy3d3GM
 
 #EXTINF:-1 tvg-logo="__" group-title="LOKAL", MAKKAH
 http://op-group1-swiftservehd-1.dens.tv/h/h241/index.m3u8?app_type=web&userid=lite&chname=Alqur'am_Karim
